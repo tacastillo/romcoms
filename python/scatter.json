@@ -1,0 +1,5809 @@
+{
+    "1920": [
+        {
+            "box_office": 1550000,
+            "box_office_adj": 22144152,
+            "budget": 400000,
+            "budget_adj": 5714619,
+            "title": "Girl Shy",
+            "year": 1924,
+            "decade": 1920
+        },
+        {
+            "box_office": 2400000,
+            "box_office_adj": 34088372,
+            "budget": 678000,
+            "budget_adj": 9629965,
+            "title": "Rio Rita (1929)",
+            "year": 1929,
+            "decade": 1920
+        },
+        {
+            "box_office": 1125000,
+            "box_office_adj": 15795258,
+            "budget": 225000,
+            "budget_adj": 3159051,
+            "title": "Rough House Rosie",
+            "year": 1927,
+            "decade": 1920
+        },
+        {
+            "box_office": 753807,
+            "box_office_adj": 10961610,
+            "budget": 224635,
+            "budget_adj": 3266567,
+            "title": "Saturday Night (1922)",
+            "year": 1922,
+            "decade": 1920
+        }
+    ],
+    "1930": [
+        {
+            "box_office": 1370000,
+            "box_office_adj": 24078489,
+            "budget": 607000,
+            "budget_adj": 10668352,
+            "title": "5th Ave Girl",
+            "year": 1939,
+            "decade": 1930
+        },
+        {
+            "box_office": 1975000,
+            "box_office_adj": 34711690,
+            "budget": 509000,
+            "budget_adj": 8945949,
+            "title": "Bachelor Mother",
+            "year": 1939,
+            "decade": 1930
+        },
+        {
+            "box_office": 1109000,
+            "box_office_adj": 19214801,
+            "budget": 1073000,
+            "budget_adj": 18591056,
+            "title": "Bringing Up Baby",
+            "year": 1938,
+            "decade": 1930
+        },
+        {
+            "box_office": 713000,
+            "box_office_adj": 12531359,
+            "budget": 425000,
+            "budget_adj": 7469604,
+            "title": "Dancing Co-Ed",
+            "year": 1939,
+            "decade": 1930
+        },
+        {
+            "box_office": 2400000,
+            "box_office_adj": 45451162,
+            "budget": 923000,
+            "budget_adj": 17479759,
+            "title": "Dancing Lady",
+            "year": 1933,
+            "decade": 1930
+        },
+        {
+            "box_office": 2156000,
+            "box_office_adj": 40830294,
+            "budget": 435000,
+            "budget_adj": 8238023,
+            "title": "Dinner at Eight",
+            "year": 1933,
+            "decade": 1930
+        },
+        {
+            "box_office": 1003000,
+            "box_office_adj": 17378219,
+            "budget": 795000,
+            "budget_adj": 13774361,
+            "title": "Everybody Sing",
+            "year": 1938,
+            "decade": 1930
+        },
+        {
+            "box_office": 1084000,
+            "box_office_adj": 19051884,
+            "budget": 369000,
+            "budget_adj": 6485374,
+            "title": "The Ex-Mrs. Bradford",
+            "year": 1936,
+            "decade": 1930
+        },
+        {
+            "box_office": 1545000,
+            "box_office_adj": 29259186,
+            "budget": 462000,
+            "budget_adj": 8749348,
+            "title": "Flying Down to Rio",
+            "year": 1933,
+            "decade": 1930
+        },
+        {
+            "box_office": 2199000,
+            "box_office_adj": 40090723,
+            "budget": 420069,
+            "budget_adj": 7658422,
+            "title": "Forsaking All Others",
+            "year": 1934,
+            "decade": 1930
+        },
+        {
+            "box_office": 1008000,
+            "box_office_adj": 17464851,
+            "budget": 966000,
+            "budget_adj": 16737148,
+            "title": "Having Wonderful Time",
+            "year": 1938,
+            "decade": 1930
+        },
+        {
+            "box_office": 193000,
+            "box_office_adj": 2823347,
+            "budget": 103000,
+            "budget_adj": 1506760,
+            "title": "He Knew Women",
+            "year": 1930,
+            "decade": 1930
+        },
+        {
+            "box_office": 625000,
+            "box_office_adj": 11394589,
+            "budget": 336000,
+            "budget_adj": 6125731,
+            "title": "Hips, Hips, Hooray!",
+            "year": 1934,
+            "decade": 1930
+        },
+        {
+            "box_office": 2850000,
+            "box_office_adj": 53973255,
+            "budget": 225000,
+            "budget_adj": 4261046,
+            "title": "I'm No Angel",
+            "year": 1933,
+            "decade": 1930
+        },
+        {
+            "box_office": 715000,
+            "box_office_adj": 12749963,
+            "budget": 493000,
+            "budget_adj": 8791233,
+            "title": "In Person",
+            "year": 1935,
+            "decade": 1930
+        },
+        {
+            "box_office": 595000,
+            "box_office_adj": 10688125,
+            "budget": 541000,
+            "budget_adj": 9718110,
+            "title": "Lady with a Past",
+            "year": 1932,
+            "decade": 1930
+        },
+        {
+            "box_office": 583000,
+            "box_office_adj": 10101198,
+            "budget": 566000,
+            "budget_adj": 9806652,
+            "title": "Listen, Darling",
+            "year": 1938,
+            "decade": 1930
+        },
+        {
+            "box_office": 428000,
+            "box_office_adj": 6261101,
+            "budget": 207000,
+            "budget_adj": 3028149,
+            "title": "Lovin' the Ladies",
+            "year": 1930,
+            "decade": 1930
+        },
+        {
+            "box_office": 716000,
+            "box_office_adj": 12405588,
+            "budget": 383000,
+            "budget_adj": 6635950,
+            "title": "The Mad Miss Manton",
+            "year": 1938,
+            "decade": 1930
+        },
+        {
+            "box_office": 1095000,
+            "box_office_adj": 18972234,
+            "budget": 513000,
+            "budget_adj": 8888361,
+            "title": "Man-Proof",
+            "year": 1938,
+            "decade": 1930
+        },
+        {
+            "box_office": 448000,
+            "box_office_adj": 7600444,
+            "budget": 200000,
+            "budget_adj": 3393055,
+            "title": "Married Before Breakfast",
+            "year": 1937,
+            "decade": 1930
+        },
+        {
+            "box_office": 485000,
+            "box_office_adj": 9184922,
+            "budget": 163000,
+            "budget_adj": 3086891,
+            "title": "Melody Cruise",
+            "year": 1933,
+            "decade": 1930
+        },
+        {
+            "box_office": 1400000,
+            "box_office_adj": 24605755,
+            "budget": 1500000,
+            "budget_adj": 26363309,
+            "title": "Modern Times",
+            "year": 1936,
+            "decade": 1930
+        },
+        {
+            "box_office": 417663,
+            "box_office_adj": 7340652,
+            "budget": 402573,
+            "budget_adj": 7075437,
+            "title": "The Moon's Our Home",
+            "year": 1936,
+            "decade": 1930
+        },
+        {
+            "box_office": 684200,
+            "box_office_adj": 12025184,
+            "budget": 656000,
+            "budget_adj": 11529553,
+            "title": "My Man Godfrey",
+            "year": 1936,
+            "decade": 1930
+        },
+        {
+            "box_office": 2300000,
+            "box_office_adj": 40423741,
+            "budget": 1365000,
+            "budget_adj": 23990611,
+            "title": "Ninotchka",
+            "year": 1939,
+            "decade": 1930
+        },
+        {
+            "box_office": 1623000,
+            "box_office_adj": 28941525,
+            "budget": 765000,
+            "budget_adj": 13641569,
+            "title": "No More Ladies",
+            "year": 1935,
+            "decade": 1930
+        },
+        {
+            "box_office": 1300000,
+            "box_office_adj": 22054861,
+            "budget": 1000000,
+            "budget_adj": 16965277,
+            "title": "On the Avenue",
+            "year": 1937,
+            "decade": 1930
+        },
+        {
+            "box_office": 603903,
+            "box_office_adj": 10613921,
+            "budget": 511383,
+            "budget_adj": 8987832,
+            "title": "One Rainy Afternoon",
+            "year": 1936,
+            "decade": 1930
+        },
+        {
+            "box_office": 751000,
+            "box_office_adj": 13012007,
+            "budget": 359000,
+            "budget_adj": 6220120,
+            "title": "Paradise for Three",
+            "year": 1938,
+            "decade": 1930
+        },
+        {
+            "box_office": 570000,
+            "box_office_adj": 9161250,
+            "budget": 293000,
+            "budget_adj": 4709203,
+            "title": "Peach O'Reno",
+            "year": 1931,
+            "decade": 1930
+        },
+        {
+            "box_office": 1731000,
+            "box_office_adj": 29366895,
+            "budget": 299000,
+            "budget_adj": 5072618,
+            "title": "Personal Property",
+            "year": 1937,
+            "decade": 1930
+        },
+        {
+            "box_office": 1272000,
+            "box_office_adj": 22356086,
+            "budget": 466000,
+            "budget_adj": 8190201,
+            "title": "Piccadilly Jim (1936)",
+            "year": 1936,
+            "decade": 1930
+        },
+        {
+            "box_office": 3300000,
+            "box_office_adj": 55985416,
+            "budget": 1100000,
+            "budget_adj": 18661805,
+            "title": "Saratoga",
+            "year": 1937,
+            "decade": 1930
+        },
+        {
+            "box_office": 2168000,
+            "box_office_adj": 36780722,
+            "budget": 991000,
+            "budget_adj": 16812590,
+            "title": "Shall We Dance (1937)",
+            "year": 1937,
+            "decade": 1930
+        },
+        {
+            "box_office": 2200000,
+            "box_office_adj": 41663565,
+            "budget": 200000,
+            "budget_adj": 3787596,
+            "title": "She Done Him Wrong",
+            "year": 1933,
+            "decade": 1930
+        },
+        {
+            "box_office": 623000,
+            "box_office_adj": 9113706,
+            "budget": 450000,
+            "budget_adj": 6582934,
+            "title": "Sin Takes a Holiday",
+            "year": 1930,
+            "decade": 1930
+        },
+        {
+            "box_office": 1605000,
+            "box_office_adj": 28208741,
+            "budget": 760000,
+            "budget_adj": 13357410,
+            "title": "Small Town Girl (1936)",
+            "year": 1936,
+            "decade": 1930
+        },
+        {
+            "box_office": 617521,
+            "box_office_adj": 10476415,
+            "budget": 523869,
+            "budget_adj": 8887583,
+            "title": "Stand-In",
+            "year": 1937,
+            "decade": 1930
+        },
+        {
+            "box_office": 497000,
+            "box_office_adj": 8862562,
+            "budget": 641000,
+            "budget_adj": 11430386,
+            "title": "Sylvia Scarlett",
+            "year": 1935,
+            "decade": 1930
+        },
+        {
+            "box_office": 1000000,
+            "box_office_adj": 16965277,
+            "budget": 534000,
+            "budget_adj": 9059458,
+            "title": "That Girl from Paris",
+            "year": 1937,
+            "decade": 1930
+        },
+        {
+            "box_office": 2396000,
+            "box_office_adj": 41513673,
+            "budget": 1564000,
+            "budget_adj": 27098241,
+            "title": "Too Hot to Handle (1938)",
+            "year": 1938,
+            "decade": 1930
+        },
+        {
+            "box_office": 3200000,
+            "box_office_adj": 57062773,
+            "budget": 609000,
+            "budget_adj": 10859759,
+            "title": "Top Hat",
+            "year": 1935,
+            "decade": 1930
+        },
+        {
+            "box_office": 475000,
+            "box_office_adj": 8532536,
+            "budget": 519706,
+            "budget_adj": 9335601,
+            "title": "Trouble in Paradise",
+            "year": 1932,
+            "decade": 1930
+        },
+        {
+            "box_office": 1206000,
+            "box_office_adj": 20895446,
+            "budget": 703000,
+            "budget_adj": 12180347,
+            "title": "Vivacious Lady",
+            "year": 1938,
+            "decade": 1930
+        },
+        {
+            "box_office": 1089956,
+            "box_office_adj": 18491406,
+            "budget": 1048435,
+            "budget_adj": 17786991,
+            "title": "Walter Wanger's Vogues of 1938",
+            "year": 1937,
+            "decade": 1930
+        },
+        {
+            "box_office": 502000,
+            "box_office_adj": 9152134,
+            "budget": 428000,
+            "budget_adj": 7803014,
+            "title": "What Every Woman Knows (1934)",
+            "year": 1934,
+            "decade": 1930
+        },
+        {
+            "box_office": 2655000,
+            "box_office_adj": 38839311,
+            "budget": 1300000,
+            "budget_adj": 19017365,
+            "title": "Whoopee!",
+            "year": 1930,
+            "decade": 1930
+        },
+        {
+            "box_office": 490000,
+            "box_office_adj": 8312986,
+            "budget": 448000,
+            "budget_adj": 7600444,
+            "title": "Wise Girl",
+            "year": 1937,
+            "decade": 1930
+        }
+    ],
+    "1940": [
+        {
+            "box_office": 3947000,
+            "box_office_adj": 40514794,
+            "budget": 1728000,
+            "budget_adj": 17737411,
+            "title": "Adam's Rib",
+            "year": 1949,
+            "decade": 1940
+        },
+        {
+            "box_office": 1366000,
+            "box_office_adj": 13904741,
+            "budget": 1171000,
+            "budget_adj": 11919804,
+            "title": "Alias a Gentleman",
+            "year": 1948,
+            "decade": 1940
+        },
+        {
+            "box_office": 2647000,
+            "box_office_adj": 39672521,
+            "budget": 369000,
+            "budget_adj": 5530472,
+            "title": "Andy Hardy's Double Life",
+            "year": 1942,
+            "decade": 1940
+        },
+        {
+            "box_office": 2889000,
+            "box_office_adj": 29654735,
+            "budget": 2192000,
+            "budget_adj": 22500235,
+            "title": "The Beautiful Blonde from Bashful Bend",
+            "year": 1949,
+            "decade": 1940
+        },
+        {
+            "box_office": 3766000,
+            "box_office_adj": 38334741,
+            "budget": 1685000,
+            "budget_adj": 17151895,
+            "title": "The Bride Goes Wild",
+            "year": 1948,
+            "decade": 1940
+        },
+        {
+            "box_office": 1197000,
+            "box_office_adj": 17940312,
+            "budget": 924000,
+            "budget_adj": 13848662,
+            "title": "Cairo (1942)",
+            "year": 1942,
+            "decade": 1940
+        },
+        {
+            "box_office": 2079000,
+            "box_office_adj": 36278550,
+            "budget": 920000,
+            "budget_adj": 16054000,
+            "title": "Comrade X",
+            "year": 1940,
+            "decade": 1940
+        },
+        {
+            "box_office": 2409000,
+            "box_office_adj": 36105441,
+            "budget": 338000,
+            "budget_adj": 5065852,
+            "title": "The Courtship of Andy Hardy",
+            "year": 1942,
+            "decade": 1940
+        },
+        {
+            "box_office": 1421000,
+            "box_office_adj": 23615666,
+            "budget": 664000,
+            "budget_adj": 11035047,
+            "title": "The Devil and Miss Jones",
+            "year": 1941,
+            "decade": 1940
+        },
+        {
+            "box_office": 5750000,
+            "box_office_adj": 62992152,
+            "budget": 1900000,
+            "budget_adj": 20814798,
+            "title": "The Egg and I",
+            "year": 1947,
+            "decade": 1940
+        },
+        {
+            "box_office": 626000,
+            "box_office_adj": 7842656,
+            "budget": 680000,
+            "budget_adj": 8519179,
+            "title": "Faithful in My Fashion",
+            "year": 1946,
+            "decade": 1940
+        },
+        {
+            "box_office": 3771000,
+            "box_office_adj": 53251751,
+            "budget": 1469000,
+            "budget_adj": 20744317,
+            "title": "Girl Crazy (1943)",
+            "year": 1943,
+            "decade": 1940
+        },
+        {
+            "box_office": 848000,
+            "box_office_adj": 14092952,
+            "budget": 412000,
+            "budget_adj": 6847047,
+            "title": "A Girl, a Guy and a Gob",
+            "year": 1941,
+            "decade": 1940
+        },
+        {
+            "box_office": 5175000,
+            "box_office_adj": 64833461,
+            "budget": 2931000,
+            "budget_adj": 36720169,
+            "title": "The Harvey Girls",
+            "year": 1946,
+            "decade": 1940
+        },
+        {
+            "box_office": 973000,
+            "box_office_adj": 14583061,
+            "budget": 979000,
+            "budget_adj": 14672987,
+            "title": "Her Cardboard Lover",
+            "year": 1942,
+            "decade": 1940
+        },
+        {
+            "box_office": 3169000,
+            "box_office_adj": 43010372,
+            "budget": 1157000,
+            "budget_adj": 15703061,
+            "title": "Her Highness and the Bellboy",
+            "year": 1945,
+            "decade": 1940
+        },
+        {
+            "box_office": 3534000,
+            "box_office_adj": 36275470,
+            "budget": 1577000,
+            "budget_adj": 16187441,
+            "title": "In the Good Old Summertime",
+            "year": 1949,
+            "decade": 1940
+        },
+        {
+            "box_office": 2664000,
+            "box_office_adj": 29184538,
+            "budget": 1819000,
+            "budget_adj": 19927430,
+            "title": "It Happened in Brooklyn",
+            "year": 1947,
+            "decade": 1940
+        },
+        {
+            "box_office": 4497000,
+            "box_office_adj": 45775712,
+            "budget": 2706000,
+            "budget_adj": 27544825,
+            "title": "Julia Misbehaves",
+            "year": 1948,
+            "decade": 1940
+        },
+        {
+            "box_office": 2046000,
+            "box_office_adj": 35702700,
+            "budget": 718000,
+            "budget_adj": 12529100,
+            "title": "Little Nellie Kelly",
+            "year": 1940,
+            "decade": 1940
+        },
+        {
+            "box_office": 1513000,
+            "box_office_adj": 16575152,
+            "budget": 2839000,
+            "budget_adj": 31101690,
+            "title": "Living in a Big Way",
+            "year": 1947,
+            "decade": 1940
+        },
+        {
+            "box_office": 1390000,
+            "box_office_adj": 24255500,
+            "budget": 733000,
+            "budget_adj": 12790850,
+            "title": "Lucky Partners",
+            "year": 1940,
+            "decade": 1940
+        },
+        {
+            "box_office": 4128000,
+            "box_office_adj": 42019600,
+            "budget": 2178000,
+            "budget_adj": 22170225,
+            "title": "Luxury Liner (1948)",
+            "year": 1948,
+            "decade": 1940
+        },
+        {
+            "box_office": 1712000,
+            "box_office_adj": 18755228,
+            "budget": 1504000,
+            "budget_adj": 16476556,
+            "title": "Merton of the Movies (1947)",
+            "year": 1947,
+            "decade": 1940
+        },
+        {
+            "box_office": 9000000,
+            "box_office_adj": 124926136,
+            "budget": 775000,
+            "budget_adj": 10757528,
+            "title": "The Miracle of Morgan's Creek",
+            "year": 1944,
+            "decade": 1940
+        },
+        {
+            "box_office": 1800000,
+            "box_office_adj": 25418497,
+            "budget": 878000,
+            "budget_adj": 12398578,
+            "title": "The More the Merrier",
+            "year": 1943,
+            "decade": 1940
+        },
+        {
+            "box_office": 1400000,
+            "box_office_adj": 23266666,
+            "budget": 743000,
+            "budget_adj": 12347952,
+            "title": "Mr. & Mrs. Smith (1941)",
+            "year": 1941,
+            "decade": 1940
+        },
+        {
+            "box_office": 2057000,
+            "box_office_adj": 35894650,
+            "budget": 921000,
+            "budget_adj": 16071450,
+            "title": "My Favorite Wife",
+            "year": 1940,
+            "decade": 1940
+        },
+        {
+            "box_office": 830000,
+            "box_office_adj": 13793809,
+            "budget": 503000,
+            "budget_adj": 8359380,
+            "title": "My Life with Caroline",
+            "year": 1941,
+            "decade": 1940
+        },
+        {
+            "box_office": 5773000,
+            "box_office_adj": 59258147,
+            "budget": 2221000,
+            "budget_adj": 22797911,
+            "title": "Neptune's Daughter (1949)",
+            "year": 1949,
+            "decade": 1940
+        },
+        {
+            "box_office": 5282000,
+            "box_office_adj": 53766358,
+            "budget": 2527000,
+            "budget_adj": 25722754,
+            "title": "On an Island with You",
+            "year": 1948,
+            "decade": 1940
+        },
+        {
+            "box_office": 1700000,
+            "box_office_adj": 25479141,
+            "budget": 950000,
+            "budget_adj": 14238343,
+            "title": "The Palm Beach Story",
+            "year": 1942,
+            "decade": 1940
+        },
+        {
+            "box_office": 3300000,
+            "box_office_adj": 57585000,
+            "budget": 914000,
+            "budget_adj": 15949300,
+            "title": "The Philadelphia Story",
+            "year": 1940,
+            "decade": 1940
+        },
+        {
+            "box_office": 2100000,
+            "box_office_adj": 21376250,
+            "budget": 2000000,
+            "budget_adj": 20358333,
+            "title": "Romance on the High Seas",
+            "year": 1948,
+            "decade": 1940
+        },
+        {
+            "box_office": 2559000,
+            "box_office_adj": 34731316,
+            "budget": 1012000,
+            "budget_adj": 13735088,
+            "title": "The Sailor Takes a Wife",
+            "year": 1945,
+            "decade": 1940
+        },
+        {
+            "box_office": 2000000,
+            "box_office_adj": 20358333,
+            "budget": 2000000,
+            "budget_adj": 20358333,
+            "title": "Scudda Hoo! Scudda Hay!",
+            "year": 1948,
+            "decade": 1940
+        },
+        {
+            "box_office": 2507000,
+            "box_office_adj": 37574239,
+            "budget": 1037000,
+            "budget_adj": 15542276,
+            "title": "Ship Ahoy",
+            "year": 1942,
+            "decade": 1940
+        },
+        {
+            "box_office": 2250000,
+            "box_office_adj": 24649103,
+            "budget": 2595000,
+            "budget_adj": 28428632,
+            "title": "The Shocking Miss Pilgrim",
+            "year": 1947,
+            "decade": 1940
+        },
+        {
+            "box_office": 2465000,
+            "box_office_adj": 34809219,
+            "budget": 918000,
+            "budget_adj": 12963433,
+            "title": "Slightly Dangerous",
+            "year": 1943,
+            "decade": 1940
+        },
+        {
+            "box_office": 373000,
+            "box_office_adj": 5590423,
+            "budget": 305000,
+            "budget_adj": 4571257,
+            "title": "Sunday Punch",
+            "year": 1942,
+            "decade": 1940
+        },
+        {
+            "box_office": 4344000,
+            "box_office_adj": 44589882,
+            "budget": 2025000,
+            "budget_adj": 20786029,
+            "title": "Take Me Out to the Ball Game",
+            "year": 1949,
+            "decade": 1940
+        },
+        {
+            "box_office": 1100000,
+            "box_office_adj": 16486503,
+            "budget": 1000000,
+            "budget_adj": 14987730,
+            "title": "The Talk of the Town (1942)",
+            "year": 1942,
+            "decade": 1940
+        },
+        {
+            "box_office": 4406000,
+            "box_office_adj": 48268421,
+            "budget": 2648000,
+            "budget_adj": 29009255,
+            "title": "This Time for Keeps",
+            "year": 1947,
+            "decade": 1940
+        },
+        {
+            "box_office": 5886000,
+            "box_office_adj": 83118485,
+            "budget": 1568000,
+            "budget_adj": 22142335,
+            "title": "Thousands Cheer",
+            "year": 1943,
+            "decade": 1940
+        },
+        {
+            "box_office": 1628000,
+            "box_office_adj": 27055809,
+            "budget": 806000,
+            "budget_adj": 13394952,
+            "title": "Tom, Dick and Harry (1941)",
+            "year": 1941,
+            "decade": 1940
+        },
+        {
+            "box_office": 1800000,
+            "box_office_adj": 29914285,
+            "budget": 1247000,
+            "budget_adj": 20723952,
+            "title": "Two-Faced Woman",
+            "year": 1941,
+            "decade": 1940
+        },
+        {
+            "box_office": 1079000,
+            "box_office_adj": 16171760,
+            "budget": 1085000,
+            "budget_adj": 16261687,
+            "title": "We Were Dancing",
+            "year": 1942,
+            "decade": 1940
+        },
+        {
+            "box_office": 1846000,
+            "box_office_adj": 30678761,
+            "budget": 640000,
+            "budget_adj": 10636190,
+            "title": "When Ladies Meet (1941)",
+            "year": 1941,
+            "decade": 1940
+        },
+        {
+            "box_office": 2708000,
+            "box_office_adj": 40586773,
+            "budget": 1006000,
+            "budget_adj": 15077656,
+            "title": "Woman of the Year",
+            "year": 1942,
+            "decade": 1940
+        },
+        {
+            "box_office": 1950000,
+            "box_office_adj": 19849375,
+            "budget": 1673000,
+            "budget_adj": 17029745,
+            "title": "You Gotta Stay Happy",
+            "year": 1948,
+            "decade": 1940
+        }
+    ],
+    "1950": [
+        {
+            "box_office": 3475000,
+            "box_office_adj": 29073373,
+            "budget": 1140000,
+            "budget_adj": 9537739,
+            "title": "Ask Any Girl",
+            "year": 1959,
+            "decade": 1950
+        },
+        {
+            "box_office": 3502000,
+            "box_office_adj": 31923082,
+            "budget": 2873000,
+            "budget_adj": 26189324,
+            "title": "The Band Wagon",
+            "year": 1953,
+            "decade": 1950
+        },
+        {
+            "box_office": 2850000,
+            "box_office_adj": 25979664,
+            "budget": 2460000,
+            "budget_adj": 22424552,
+            "title": "Call Me Madam",
+            "year": 1953,
+            "decade": 1950
+        },
+        {
+            "box_office": 2500000,
+            "box_office_adj": 22789179,
+            "budget": 2600000,
+            "budget_adj": 23700746,
+            "title": "Daddy Long Legs (1955)",
+            "year": 1955,
+            "decade": 1950
+        },
+        {
+            "box_office": 3255000,
+            "box_office_adj": 29671511,
+            "budget": 1465000,
+            "budget_adj": 13354458,
+            "title": "Dangerous When Wet",
+            "year": 1953,
+            "decade": 1950
+        },
+        {
+            "box_office": 3750000,
+            "box_office_adj": 32602313,
+            "budget": 1844000,
+            "budget_adj": 16031644,
+            "title": "Designing Woman",
+            "year": 1957,
+            "decade": 1950
+        },
+        {
+            "box_office": 1700000,
+            "box_office_adj": 14779715,
+            "budget": 1865000,
+            "budget_adj": 16214217,
+            "title": "Desk Set",
+            "year": 1957,
+            "decade": 1950
+        },
+        {
+            "box_office": 6140000,
+            "box_office_adj": 53380854,
+            "budget": 2495000,
+            "budget_adj": 21691405,
+            "title": "Don't Go Near the Water",
+            "year": 1957,
+            "decade": 1950
+        },
+        {
+            "box_office": 1885000,
+            "box_office_adj": 17183041,
+            "budget": 1565000,
+            "budget_adj": 14266026,
+            "title": "Dream Wife",
+            "year": 1953,
+            "decade": 1950
+        },
+        {
+            "box_office": 4236000,
+            "box_office_adj": 42940033,
+            "budget": 1705000,
+            "budget_adj": 17283464,
+            "title": "Duchess of Idaho",
+            "year": 1950,
+            "decade": 1950
+        },
+        {
+            "box_office": 3789000,
+            "box_office_adj": 34539279,
+            "budget": 1831000,
+            "budget_adj": 16690794,
+            "title": "Easy to Love (1953)",
+            "year": 1953,
+            "decade": 1950
+        },
+        {
+            "box_office": 1946000,
+            "box_office_adj": 17872473,
+            "budget": 1461000,
+            "budget_adj": 13418131,
+            "title": "Everything I Have Is Yours",
+            "year": 1952,
+            "decade": 1950
+        },
+        {
+            "box_office": 6084000,
+            "box_office_adj": 61673078,
+            "budget": 1215000,
+            "budget_adj": 12316369,
+            "title": "Father of the Bride (1950)",
+            "year": 1950,
+            "decade": 1950
+        },
+        {
+            "box_office": 4622000,
+            "box_office_adj": 43429023,
+            "budget": 941000,
+            "budget_adj": 8841780,
+            "title": "Father's Little Dividend",
+            "year": 1951,
+            "decade": 1950
+        },
+        {
+            "box_office": 2500000,
+            "box_office_adj": 21734875,
+            "budget": 3000000,
+            "budget_adj": 26081850,
+            "title": "Funny Face",
+            "year": 1957,
+            "decade": 1950
+        },
+        {
+            "box_office": 5300000,
+            "box_office_adj": 48313059,
+            "budget": 2260000,
+            "budget_adj": 20601417,
+            "title": "Gentlemen Prefer Blondes (1953)",
+            "year": 1953,
+            "decade": 1950
+        },
+        {
+            "box_office": 13208725,
+            "box_office_adj": 111657145,
+            "budget": 3319355,
+            "budget_adj": 28059461,
+            "title": "Gigi (1958)",
+            "year": 1958,
+            "decade": 1950
+        },
+        {
+            "box_office": 1300000,
+            "box_office_adj": 12215000,
+            "budget": 1312000,
+            "budget_adj": 12327753,
+            "title": "Goodbye, My Fancy",
+            "year": 1951,
+            "decade": 1950
+        },
+        {
+            "box_office": 855000,
+            "box_office_adj": 8667074,
+            "budget": 1393000,
+            "budget_adj": 14120742,
+            "title": "The Happy Years",
+            "year": 1950,
+            "decade": 1950
+        },
+        {
+            "box_office": 8258000,
+            "box_office_adj": 74170198,
+            "budget": 2762000,
+            "budget_adj": 24807227,
+            "title": "High Society (1956)",
+            "year": 1956,
+            "decade": 1950
+        },
+        {
+            "box_office": 8000000,
+            "box_office_adj": 72925373,
+            "budget": 1870000,
+            "budget_adj": 17046305,
+            "title": "How to Marry a Millionaire",
+            "year": 1953,
+            "decade": 1950
+        },
+        {
+            "box_office": 4650000,
+            "box_office_adj": 38903938,
+            "budget": 1789000,
+            "budget_adj": 14967558,
+            "title": "It Started with a Kiss",
+            "year": 1959,
+            "decade": 1950
+        },
+        {
+            "box_office": 2374000,
+            "box_office_adj": 21640604,
+            "budget": 2771000,
+            "budget_adj": 25259526,
+            "title": "It's Always Fair Weather",
+            "year": 1955,
+            "decade": 1950
+        },
+        {
+            "box_office": 2520000,
+            "box_office_adj": 22971492,
+            "budget": 3337000,
+            "budget_adj": 30418996,
+            "title": "Jupiter's Darling",
+            "year": 1955,
+            "decade": 1950
+        },
+        {
+            "box_office": 1,
+            "box_office_adj": 9,
+            "budget": 547000,
+            "budget_adj": 5023763,
+            "title": "Just This Once",
+            "year": 1952,
+            "decade": 1950
+        },
+        {
+            "box_office": 2973000,
+            "box_office_adj": 30137091,
+            "budget": 1514000,
+            "budget_adj": 15347311,
+            "title": "Key to the City",
+            "year": 1950,
+            "decade": 1950
+        },
+        {
+            "box_office": 1827000,
+            "box_office_adj": 16654332,
+            "budget": 3015000,
+            "budget_adj": 27483750,
+            "title": "Kismet (1955)",
+            "year": 1955,
+            "decade": 1950
+        },
+        {
+            "box_office": 3117000,
+            "box_office_adj": 28413548,
+            "budget": 1981000,
+            "budget_adj": 18058145,
+            "title": "Kiss Me Kate",
+            "year": 1953,
+            "decade": 1950
+        },
+        {
+            "box_office": 1800000,
+            "box_office_adj": 15649110,
+            "budget": 1945000,
+            "budget_adj": 16909733,
+            "title": "Kiss Them for Me",
+            "year": 1957,
+            "decade": 1950
+        },
+        {
+            "box_office": 93600000,
+            "box_office_adj": 853226865,
+            "budget": 4000000,
+            "budget_adj": 36462686,
+            "title": "Lady and the Tramp",
+            "year": 1955,
+            "decade": 1950
+        },
+        {
+            "box_office": 3600000,
+            "box_office_adj": 31298220,
+            "budget": 1662000,
+            "budget_adj": 14449345,
+            "title": "The Little Hut",
+            "year": 1957,
+            "decade": 1950
+        },
+        {
+            "box_office": 2000000,
+            "box_office_adj": 17387900,
+            "budget": 2100000,
+            "budget_adj": 18257295,
+            "title": "Love in the Afternoon (1957)",
+            "year": 1957,
+            "decade": 1950
+        },
+        {
+            "box_office": 974000,
+            "box_office_adj": 8945421,
+            "budget": 941000,
+            "budget_adj": 8642342,
+            "title": "Love Is Better Than Ever",
+            "year": 1952,
+            "decade": 1950
+        },
+        {
+            "box_office": 444000,
+            "box_office_adj": 4047358,
+            "budget": 1350000,
+            "budget_adj": 12306156,
+            "title": "Main Street to Broadway",
+            "year": 1953,
+            "decade": 1950
+        },
+        {
+            "box_office": 3530000,
+            "box_office_adj": 29840103,
+            "budget": 2485000,
+            "budget_adj": 21006418,
+            "title": "Merry Andrew",
+            "year": 1958,
+            "decade": 1950
+        },
+        {
+            "box_office": 3500000,
+            "box_office_adj": 31904850,
+            "budget": 400000,
+            "budget_adj": 3646268,
+            "title": "The Moon Is Blue",
+            "year": 1953,
+            "decade": 1950
+        },
+        {
+            "box_office": 2866000,
+            "box_office_adj": 29052439,
+            "budget": 1682000,
+            "budget_adj": 17050315,
+            "title": "Nancy Goes to Rio",
+            "year": 1950,
+            "decade": 1950
+        },
+        {
+            "box_office": 2760000,
+            "box_office_adj": 24789264,
+            "budget": 2834000,
+            "budget_adj": 25453904,
+            "title": "The Opposite Sex",
+            "year": 1956,
+            "decade": 1950
+        },
+        {
+            "box_office": 3360000,
+            "box_office_adj": 34060082,
+            "budget": 1920000,
+            "budget_adj": 19462904,
+            "title": "Pagan Love Song",
+            "year": 1950,
+            "decade": 1950
+        },
+        {
+            "box_office": 2696000,
+            "box_office_adj": 24760631,
+            "budget": 1618000,
+            "budget_adj": 14860052,
+            "title": "Pat and Mike",
+            "year": 1952,
+            "decade": 1950
+        },
+        {
+            "box_office": 769000,
+            "box_office_adj": 7795298,
+            "budget": 1055000,
+            "budget_adj": 10694460,
+            "title": "Please Believe Me",
+            "year": 1950,
+            "decade": 1950
+        },
+        {
+            "box_office": 3200000,
+            "box_office_adj": 29389473,
+            "budget": 1750000,
+            "budget_adj": 16072368,
+            "title": "The Quiet Man",
+            "year": 1952,
+            "decade": 1950
+        },
+        {
+            "box_office": 2127000,
+            "box_office_adj": 21561248,
+            "budget": 1123000,
+            "budget_adj": 11383771,
+            "title": "The Reformer and the Redhead",
+            "year": 1950,
+            "decade": 1950
+        },
+        {
+            "box_office": 2980000,
+            "box_office_adj": 25190795,
+            "budget": 2250000,
+            "budget_adj": 19019896,
+            "title": "The Reluctant Debutante",
+            "year": 1958,
+            "decade": 1950
+        },
+        {
+            "box_office": 2999000,
+            "box_office_adj": 28179065,
+            "budget": 1528000,
+            "budget_adj": 14357323,
+            "title": "Rich, Young and Pretty",
+            "year": 1951,
+            "decade": 1950
+        },
+        {
+            "box_office": 12000000,
+            "box_office_adj": 109388059,
+            "budget": 1500000,
+            "budget_adj": 13673507,
+            "title": "Roman Holiday",
+            "year": 1953,
+            "decade": 1950
+        },
+        {
+            "box_office": 3902000,
+            "box_office_adj": 36663792,
+            "budget": 1661000,
+            "budget_adj": 15607011,
+            "title": "Royal Wedding",
+            "year": 1951,
+            "decade": 1950
+        },
+        {
+            "box_office": 4000000,
+            "box_office_adj": 36327137,
+            "budget": 2238813,
+            "budget_adj": 20332416,
+            "title": "Sabrina (1954)",
+            "year": 1954,
+            "decade": 1950
+        },
+        {
+            "box_office": 12400000,
+            "box_office_adj": 113884210,
+            "budget": 2500000,
+            "budget_adj": 22960526,
+            "title": "Singin' in the Rain",
+            "year": 1952,
+            "decade": 1950
+        },
+        {
+            "box_office": 881000,
+            "box_office_adj": 8278011,
+            "budget": 1182000,
+            "budget_adj": 11106253,
+            "title": "Strictly Dishonorable (1951)",
+            "year": 1951,
+            "decade": 1950
+        },
+        {
+            "box_office": 1705000,
+            "box_office_adj": 14823185,
+            "budget": 1799000,
+            "budget_adj": 15640416,
+            "title": "Ten Thousand Bedrooms",
+            "year": 1957,
+            "decade": 1950
+        },
+        {
+            "box_office": 5103555,
+            "box_office_adj": 46349386,
+            "budget": 4340000,
+            "budget_adj": 39414944,
+            "title": "There's No Business Like Show Business",
+            "year": 1954,
+            "decade": 1950
+        },
+        {
+            "box_office": 2690000,
+            "box_office_adj": 22739342,
+            "budget": 2017000,
+            "budget_adj": 17050280,
+            "title": "The Tunnel of Love",
+            "year": 1958,
+            "decade": 1950
+        },
+        {
+            "box_office": 2795000,
+            "box_office_adj": 28332717,
+            "budget": 1405000,
+            "budget_adj": 14242385,
+            "title": "Two Weeks with Love",
+            "year": 1950,
+            "decade": 1950
+        },
+        {
+            "box_office": 4900000,
+            "box_office_adj": 42600355,
+            "budget": 1050000,
+            "budget_adj": 9128647,
+            "title": "Will Success Spoil Rock Hunter?",
+            "year": 1957,
+            "decade": 1950
+        },
+        {
+            "box_office": 580000,
+            "box_office_adj": 5326842,
+            "budget": 382000,
+            "budget_adj": 3508368,
+            "title": "You for Me",
+            "year": 1952,
+            "decade": 1950
+        }
+    ],
+    "1960": [
+        {
+            "box_office": 24600000,
+            "box_office_adj": 203033108,
+            "budget": 3000000,
+            "budget_adj": 24760135,
+            "title": "The Apartment",
+            "year": 1960,
+            "decade": 1960
+        },
+        {
+            "box_office": 3500000,
+            "box_office_adj": 28596989,
+            "budget": 1989000,
+            "budget_adj": 16251260,
+            "title": "Bachelor in Paradise",
+            "year": 1961,
+            "decade": 1960
+        },
+        {
+            "box_office": 28000000,
+            "box_office_adj": 204802395,
+            "budget": 2000000,
+            "budget_adj": 14628742,
+            "title": "Barefoot in the Park",
+            "year": 1967,
+            "decade": 1960
+        },
+        {
+            "box_office": 31900000,
+            "box_office_adj": 212347956,
+            "budget": 2000000,
+            "budget_adj": 13313351,
+            "title": "Bob & Carol & Ted & Alice",
+            "year": 1969,
+            "decade": 1960
+        },
+        {
+            "box_office": 14000000,
+            "box_office_adj": 114387959,
+            "budget": 2500000,
+            "budget_adj": 20426421,
+            "title": "Breakfast at Tiffany's",
+            "year": 1961,
+            "decade": 1960
+        },
+        {
+            "box_office": 8000000,
+            "box_office_adj": 62044444,
+            "budget": 3890000,
+            "budget_adj": 30169111,
+            "title": "Do Not Disturb (1965)",
+            "year": 1965,
+            "decade": 1960
+        },
+        {
+            "box_office": 5000000,
+            "box_office_adj": 40852842,
+            "budget": 4000000,
+            "budget_adj": 32682274,
+            "title": "Flower Drum Song",
+            "year": 1961,
+            "decade": 1960
+        },
+        {
+            "box_office": 7270000,
+            "box_office_adj": 51036235,
+            "budget": 2590000,
+            "budget_adj": 18182097,
+            "title": "For Love of Ivy",
+            "year": 1968,
+            "decade": 1960
+        },
+        {
+            "box_office": 56700000,
+            "box_office_adj": 414724850,
+            "budget": 4000000,
+            "budget_adj": 29257485,
+            "title": "Guess Who's Coming to Dinner",
+            "year": 1967,
+            "decade": 1960
+        },
+        {
+            "box_office": 26000000,
+            "box_office_adj": 173073569,
+            "budget": 25000000,
+            "budget_adj": 166416893,
+            "title": "Hello, Dolly!",
+            "year": 1969,
+            "decade": 1960
+        },
+        {
+            "box_office": 1850000,
+            "box_office_adj": 14916006,
+            "budget": 1020000,
+            "budget_adj": 8223960,
+            "title": "The Horizontal Lieutenant",
+            "year": 1962,
+            "decade": 1960
+        },
+        {
+            "box_office": 25246588,
+            "box_office_adj": 201560178,
+            "budget": 5000000,
+            "budget_adj": 39918300,
+            "title": "Irma la Douce",
+            "year": 1963,
+            "decade": 1960
+        },
+        {
+            "box_office": 6540000,
+            "box_office_adj": 53977094,
+            "budget": 3585000,
+            "budget_adj": 29588361,
+            "title": "Let's Make Love",
+            "year": 1960,
+            "decade": 1960
+        },
+        {
+            "box_office": 31678778,
+            "box_office_adj": 210875353,
+            "budget": 20000000,
+            "budget_adj": 133133514,
+            "title": "Paint Your Wagon",
+            "year": 1969,
+            "decade": 1960
+        },
+        {
+            "box_office": 2500000,
+            "box_office_adj": 18792307,
+            "budget": 2000000,
+            "budget_adj": 15033846,
+            "title": "Paradise, Hawaiian Style",
+            "year": 1966,
+            "decade": 1960
+        },
+        {
+            "box_office": 4000000,
+            "box_office_adj": 32250825,
+            "budget": 1900000,
+            "budget_adj": 15319141,
+            "title": "Period of Adjustment",
+            "year": 1962,
+            "decade": 1960
+        },
+        {
+            "box_office": 2000000,
+            "box_office_adj": 15761290,
+            "budget": 2100000,
+            "budget_adj": 16549354,
+            "title": "The Pleasure Seekers",
+            "year": 1964,
+            "decade": 1960
+        },
+        {
+            "box_office": 8000000,
+            "box_office_adj": 53253405,
+            "budget": 20000000,
+            "budget_adj": 133133514,
+            "title": "Sweet Charity",
+            "year": 1969,
+            "decade": 1960
+        },
+        {
+            "box_office": 11180531,
+            "box_office_adj": 88109797,
+            "budget": 3750000,
+            "budget_adj": 29552419,
+            "title": "What a Way to Go!",
+            "year": 1964,
+            "decade": 1960
+        }
+    ],
+    "1970": [
+        {
+            "box_office": 74800000,
+            "box_office_adj": 251703030,
+            "budget": 7000000,
+            "budget_adj": 23555096,
+            "title": "10",
+            "year": 1979,
+            "decade": 1970
+        },
+        {
+            "box_office": 38300000,
+            "box_office_adj": 154400825,
+            "budget": 4000000,
+            "budget_adj": 16125412,
+            "title": "Annie Hall",
+            "year": 1977,
+            "decade": 1970
+        },
+        {
+            "box_office": 55700000,
+            "box_office_adj": 350709020,
+            "budget": 4000000,
+            "budget_adj": 25185567,
+            "title": "The Aristocats",
+            "year": 1970,
+            "decade": 1970
+        },
+        {
+            "box_office": 2500000,
+            "box_office_adj": 11352230,
+            "budget": 5140000,
+            "budget_adj": 23340185,
+            "title": "At Long Last Love",
+            "year": 1975,
+            "decade": 1970
+        },
+        {
+            "box_office": 40000000,
+            "box_office_adj": 134600550,
+            "budget": 3000000,
+            "budget_adj": 10095041,
+            "title": "Chilly Scenes of Winter",
+            "year": 1979,
+            "decade": 1970
+        },
+        {
+            "box_office": 4120000,
+            "box_office_adj": 17689209,
+            "budget": 4590000,
+            "budget_adj": 19707152,
+            "title": "The Duchess and the Dirtwater Fox",
+            "year": 1976,
+            "decade": 1970
+        },
+        {
+            "box_office": 15000000,
+            "box_office_adj": 74330628,
+            "budget": 4000000,
+            "budget_adj": 19821501,
+            "title": "The Front Page (1974)",
+            "year": 1974,
+            "decade": 1970
+        },
+        {
+            "box_office": 395000000,
+            "box_office_adj": 1480038343,
+            "budget": 6000000,
+            "budget_adj": 22481595,
+            "title": "Grease",
+            "year": 1978,
+            "decade": 1970
+        },
+        {
+            "box_office": 81600000,
+            "box_office_adj": 305749693,
+            "budget": 15000000,
+            "budget_adj": 56203987,
+            "title": "Heaven Can Wait (1978)",
+            "year": 1978,
+            "decade": 1970
+        },
+        {
+            "box_office": 29000000,
+            "box_office_adj": 108661042,
+            "budget": 6500000,
+            "budget_adj": 24355061,
+            "title": "House Calls (1978)",
+            "year": 1978,
+            "decade": 1970
+        },
+        {
+            "box_office": 4000000,
+            "box_office_adj": 19821501,
+            "budget": 160000,
+            "budget_adj": 792860,
+            "title": "The Lords of Flatbush",
+            "year": 1974,
+            "decade": 1970
+        },
+        {
+            "box_office": 42800000,
+            "box_office_adj": 144022589,
+            "budget": 8000000,
+            "budget_adj": 26920110,
+            "title": "The Main Event (1979)",
+            "year": 1979,
+            "decade": 1970
+        },
+        {
+            "box_office": 39946780,
+            "box_office_adj": 134421464,
+            "budget": 9000000,
+            "budget_adj": 30285123,
+            "title": "Manhattan",
+            "year": 1979,
+            "decade": 1970
+        },
+        {
+            "box_office": 14000000,
+            "box_office_adj": 88149484,
+            "budget": 10000000,
+            "budget_adj": 62963917,
+            "title": "On a Clear Day You Can See Forever",
+            "year": 1970,
+            "decade": 1970
+        },
+        {
+            "box_office": 60000000,
+            "box_office_adj": 272453531,
+            "budget": 4000000,
+            "budget_adj": 18163568,
+            "title": "Shampoo",
+            "year": 1975,
+            "decade": 1970
+        },
+        {
+            "box_office": 35649012,
+            "box_office_adj": 119959416,
+            "budget": 10000000,
+            "budget_adj": 33650137,
+            "title": "Starting Over (1979)",
+            "year": 1979,
+            "decade": 1970
+        },
+        {
+            "box_office": 66000000,
+            "box_office_adj": 385736842,
+            "budget": 4000000,
+            "budget_adj": 23377990,
+            "title": "What's Up, Doc? (1972)",
+            "year": 1972,
+            "decade": 1970
+        }
+    ],
+    "1980": [
+        {
+            "box_office": 1717376,
+            "box_office_adj": 3546533,
+            "budget": 5000000,
+            "budget_adj": 10325443,
+            "title": "And God Created Woman (1988)",
+            "year": 1988,
+            "decade": 1980
+        },
+        {
+            "box_office": 95461682,
+            "box_office_adj": 256559834,
+            "budget": 7000000,
+            "budget_adj": 18812981,
+            "title": "Arthur (1981)",
+            "year": 1981,
+            "decade": 1980
+        },
+        {
+            "box_office": 26000000,
+            "box_office_adj": 55913732,
+            "budget": 15000000,
+            "budget_adj": 32257922,
+            "title": "Baby Boom",
+            "year": 1987,
+            "decade": 1980
+        },
+        {
+            "box_office": 1867792,
+            "box_office_adj": 4581341,
+            "budget": 3000000,
+            "budget_adj": 7358433,
+            "title": "Baby It's You",
+            "year": 1983,
+            "decade": 1980
+        },
+        {
+            "box_office": 151700000,
+            "box_office_adj": 313273964,
+            "budget": 18000000,
+            "budget_adj": 37171597,
+            "title": "Big",
+            "year": 1988,
+            "decade": 1980
+        },
+        {
+            "box_office": 19131246,
+            "box_office_adj": 37691640,
+            "budget": 18000000,
+            "budget_adj": 35462903,
+            "title": "Blaze (1989)",
+            "year": 1989,
+            "decade": 1980
+        },
+        {
+            "box_office": 67331309,
+            "box_office_adj": 144797876,
+            "budget": 15000000,
+            "budget_adj": 32257922,
+            "title": "Broadcast News",
+            "year": 1987,
+            "decade": 1980
+        },
+        {
+            "box_office": 58000000,
+            "box_office_adj": 119775147,
+            "budget": 7500000,
+            "budget_adj": 15488165,
+            "title": "Bull Durham",
+            "year": 1988,
+            "decade": 1980
+        },
+        {
+            "box_office": 16278590,
+            "box_office_adj": 32071447,
+            "budget": 16000000,
+            "budget_adj": 31522580,
+            "title": "Chances Are",
+            "year": 1989,
+            "decade": 1980
+        },
+        {
+            "box_office": 288752301,
+            "box_office_adj": 596299130,
+            "budget": 39000000,
+            "budget_adj": 80538461,
+            "title": "Coming to America",
+            "year": 1988,
+            "decade": 1980
+        },
+        {
+            "box_office": 1025762,
+            "box_office_adj": 2205930,
+            "budget": 7000000,
+            "budget_adj": 15053697,
+            "title": "Cross My Heart (1987)",
+            "year": 1987,
+            "decade": 1980
+        },
+        {
+            "box_office": 16000000,
+            "box_office_adj": 33041420,
+            "budget": 4000000,
+            "budget_adj": 8260355,
+            "title": "Crossing Delancey",
+            "year": 1988,
+            "decade": 1980
+        },
+        {
+            "box_office": 1988962,
+            "box_office_adj": 4277318,
+            "budget": 8000000,
+            "budget_adj": 17204225,
+            "title": "Date with an Angel",
+            "year": 1987,
+            "decade": 1980
+        },
+        {
+            "box_office": 27398584,
+            "box_office_adj": 62207008,
+            "budget": 4500000,
+            "budget_adj": 10217007,
+            "title": "Desperately Seeking Susan",
+            "year": 1985,
+            "decade": 1980
+        },
+        {
+            "box_office": 3916303,
+            "box_office_adj": 8087513,
+            "budget": 10000000,
+            "budget_adj": 20650887,
+            "title": "Earth Girls Are Easy",
+            "year": 1988,
+            "decade": 1980
+        },
+        {
+            "box_office": 2467664,
+            "box_office_adj": 5802216,
+            "budget": 5500000,
+            "budget_adj": 12932146,
+            "title": "Electric Dreams",
+            "year": 1984,
+            "decade": 1980
+        },
+        {
+            "box_office": 15200000,
+            "box_office_adj": 38480414,
+            "budget": 11200000,
+            "budget_adj": 28353989,
+            "title": "Grease 2",
+            "year": 1982,
+            "decade": 1980
+        },
+        {
+            "box_office": 8300000,
+            "box_office_adj": 17140236,
+            "budget": 2000000,
+            "budget_adj": 4130177,
+            "title": "Hairspray (1988)",
+            "year": 1988,
+            "decade": 1980
+        },
+        {
+            "box_office": 25300000,
+            "box_office_adj": 56394069,
+            "budget": 15000000,
+            "budget_adj": 33435218,
+            "title": "Heartburn",
+            "year": 1986,
+            "decade": 1980
+        },
+        {
+            "box_office": 18000000,
+            "box_office_adj": 35462903,
+            "budget": 15000000,
+            "budget_adj": 29552419,
+            "title": "Her Alibi",
+            "year": 1989,
+            "decade": 1980
+        },
+        {
+            "box_office": 5100000,
+            "box_office_adj": 11991626,
+            "budget": 7500000,
+            "budget_adj": 17634744,
+            "title": "The Hotel New Hampshire",
+            "year": 1984,
+            "decade": 1980
+        },
+        {
+            "box_office": 96700000,
+            "box_office_adj": 219552137,
+            "budget": 25000000,
+            "budget_adj": 56761152,
+            "title": "The Jewel of the Nile",
+            "year": 1985,
+            "decade": 1980
+        },
+        {
+            "box_office": 15782759,
+            "box_office_adj": 39955730,
+            "budget": 8000000,
+            "budget_adj": 20252849,
+            "title": "Kiss Me Goodbye",
+            "year": 1982,
+            "decade": 1980
+        },
+        {
+            "box_office": 93151591,
+            "box_office_adj": 207636256,
+            "budget": 40000000,
+            "budget_adj": 89160583,
+            "title": "Legal Eagles",
+            "year": 1986,
+            "decade": 1980
+        },
+        {
+            "box_office": 297000000,
+            "box_office_adj": 585137903,
+            "budget": 7500000,
+            "budget_adj": 14776209,
+            "title": "Look Who's Talking",
+            "year": 1989,
+            "decade": 1980
+        },
+        {
+            "box_office": 4573000,
+            "box_office_adj": 9834365,
+            "budget": 9000000,
+            "budget_adj": 19354753,
+            "title": "Made in Heaven (1987)",
+            "year": 1987,
+            "decade": 1980
+        },
+        {
+            "box_office": 42700000,
+            "box_office_adj": 91827552,
+            "budget": 7900000,
+            "budget_adj": 16989172,
+            "title": "Mannequin (1987)",
+            "year": 1987,
+            "decade": 1980
+        },
+        {
+            "box_office": 21486757,
+            "box_office_adj": 44372060,
+            "budget": 10000000,
+            "budget_adj": 20650887,
+            "title": "Married to the Mob",
+            "year": 1988,
+            "decade": 1980
+        },
+        {
+            "box_office": 11444204,
+            "box_office_adj": 23633297,
+            "budget": 20000000,
+            "budget_adj": 41301775,
+            "title": "Moon over Parador",
+            "year": 1988,
+            "decade": 1980
+        },
+        {
+            "box_office": 91640528,
+            "box_office_adj": 197075536,
+            "budget": 15000000,
+            "budget_adj": 32257922,
+            "title": "Moonstruck",
+            "year": 1987,
+            "decade": 1980
+        },
+        {
+            "box_office": 25068724,
+            "box_office_adj": 58944073,
+            "budget": 13000000,
+            "budget_adj": 30566891,
+            "title": "Moscow on the Hudson",
+            "year": 1984,
+            "decade": 1980
+        },
+        {
+            "box_office": 30762621,
+            "box_office_adj": 69844872,
+            "budget": 13000000,
+            "budget_adj": 29515799,
+            "title": "Murphy's Romance",
+            "year": 1985,
+            "decade": 1980
+        },
+        {
+            "box_office": 5669831,
+            "box_office_adj": 12193131,
+            "budget": 12000000,
+            "budget_adj": 25806338,
+            "title": "Nadine (1987)",
+            "year": 1987,
+            "decade": 1980
+        },
+        {
+            "box_office": 7721852,
+            "box_office_adj": 15946309,
+            "budget": 12000000,
+            "budget_adj": 24781065,
+            "title": "A New Life",
+            "year": 1988,
+            "decade": 1980
+        },
+        {
+            "box_office": 10700000,
+            "box_office_adj": 21080725,
+            "budget": 15000000,
+            "budget_adj": 29552419,
+            "title": "New York Stories",
+            "year": 1989,
+            "decade": 1980
+        },
+        {
+            "box_office": 41382841,
+            "box_office_adj": 92242956,
+            "budget": 18000000,
+            "budget_adj": 40122262,
+            "title": "Peggy Sue Got Married",
+            "year": 1986,
+            "decade": 1980
+        },
+        {
+            "box_office": 13290368,
+            "box_office_adj": 28581310,
+            "budget": 15000000,
+            "budget_adj": 32257922,
+            "title": "The Pick-up Artist",
+            "year": 1987,
+            "decade": 1980
+        },
+        {
+            "box_office": 60000000,
+            "box_office_adj": 177888349,
+            "budget": 20000000,
+            "budget_adj": 59296116,
+            "title": "Popeye",
+            "year": 1980,
+            "decade": 1980
+        },
+        {
+            "box_office": 40400000,
+            "box_office_adj": 90052189,
+            "budget": 9000000,
+            "budget_adj": 20061131,
+            "title": "Pretty in Pink",
+            "year": 1986,
+            "decade": 1980
+        },
+        {
+            "box_office": 26657534,
+            "box_office_adj": 60524494,
+            "budget": 16000000,
+            "budget_adj": 36327137,
+            "title": "Prizzi's Honor",
+            "year": 1985,
+            "decade": 1980
+        },
+        {
+            "box_office": 21042667,
+            "box_office_adj": 43454975,
+            "budget": 15000000,
+            "budget_adj": 30976331,
+            "title": "Punchline",
+            "year": 1988,
+            "decade": 1980
+        },
+        {
+            "box_office": 63500000,
+            "box_office_adj": 155753514,
+            "budget": 6200000,
+            "budget_adj": 15207429,
+            "title": "Risky Business",
+            "year": 1983,
+            "decade": 1980
+        },
+        {
+            "box_office": 86500000,
+            "box_office_adj": 203387391,
+            "budget": 10000000,
+            "budget_adj": 23512993,
+            "title": "Romancing the Stone",
+            "year": 1984,
+            "decade": 1980
+        },
+        {
+            "box_office": 21500000,
+            "box_office_adj": 42358467,
+            "budget": 16000000,
+            "budget_adj": 31522580,
+            "title": "Say Anything…",
+            "year": 1989,
+            "decade": 1980
+        },
+        {
+            "box_office": 60300000,
+            "box_office_adj": 124524852,
+            "budget": 32000000,
+            "budget_adj": 66082840,
+            "title": "Scrooged",
+            "year": 1988,
+            "decade": 1980
+        },
+        {
+            "box_office": 69000000,
+            "box_office_adj": 162239653,
+            "budget": 8000000,
+            "budget_adj": 18810394,
+            "title": "Splash",
+            "year": 1984,
+            "decade": 1980
+        },
+        {
+            "box_office": 13000000,
+            "box_office_adj": 31886546,
+            "budget": 16500000,
+            "budget_adj": 40471385,
+            "title": "Stroker Ace",
+            "year": 1983,
+            "decade": 1980
+        },
+        {
+            "box_office": 4968000,
+            "box_office_adj": 12577019,
+            "budget": 5000000,
+            "budget_adj": 12658031,
+            "title": "Summer Lovers",
+            "year": 1982,
+            "decade": 1980
+        },
+        {
+            "box_office": 18135531,
+            "box_office_adj": 41175745,
+            "budget": 4500000,
+            "budget_adj": 10217007,
+            "title": "The Sure Thing",
+            "year": 1985,
+            "decade": 1980
+        },
+        {
+            "box_office": 177200000,
+            "box_office_adj": 448600621,
+            "budget": 21000000,
+            "budget_adj": 53163730,
+            "title": "Tootsie",
+            "year": 1982,
+            "decade": 1980
+        },
+        {
+            "box_office": 546541,
+            "box_office_adj": 1076773,
+            "budget": 75000,
+            "budget_adj": 147762,
+            "title": "The Unbelievable Truth",
+            "year": 1989,
+            "decade": 1980
+        },
+        {
+            "box_office": 38900000,
+            "box_office_adj": 88320353,
+            "budget": 7500000,
+            "budget_adj": 17028345,
+            "title": "Weird Science",
+            "year": 1985,
+            "decade": 1980
+        },
+        {
+            "box_office": 92800000,
+            "box_office_adj": 182830967,
+            "budget": 16000000,
+            "budget_adj": 31522580,
+            "title": "When Harry Met Sally...",
+            "year": 1989,
+            "decade": 1980
+        },
+        {
+            "box_office": 4400000,
+            "box_office_adj": 13045145,
+            "budget": 5500000,
+            "budget_adj": 16306432,
+            "title": "Willie & Phil",
+            "year": 1980,
+            "decade": 1980
+        },
+        {
+            "box_office": 102953112,
+            "box_office_adj": 212607314,
+            "budget": 28600000,
+            "budget_adj": 59061538,
+            "title": "Working Girl",
+            "year": 1988,
+            "decade": 1980
+        },
+        {
+            "box_office": 2279543,
+            "box_office_adj": 5770905,
+            "budget": 19000000,
+            "budget_adj": 48100518,
+            "title": "Yes, Giorgio",
+            "year": 1982,
+            "decade": 1980
+        }
+    ],
+    "1990": [
+        {
+            "box_office": 7331647,
+            "box_office_adj": 13704065,
+            "budget": 12000000,
+            "budget_adj": 22429992,
+            "title": "Alice (1990)",
+            "year": 1990,
+            "decade": 1990
+        },
+        {
+            "box_office": 107900000,
+            "box_office_adj": 172965682,
+            "budget": 62000000,
+            "budget_adj": 99387139,
+            "title": "The American President",
+            "year": 1995,
+            "decade": 1990
+        },
+        {
+            "box_office": 9400000,
+            "box_office_adj": 15495411,
+            "budget": 26000000,
+            "budget_adj": 42859649,
+            "title": "Angie (1994)",
+            "year": 1994,
+            "decade": 1990
+        },
+        {
+            "box_office": 314100000,
+            "box_office_adj": 478097383,
+            "budget": 50000000,
+            "budget_adj": 76105919,
+            "title": "As Good as It Gets",
+            "year": 1997,
+            "decade": 1990
+        },
+        {
+            "box_office": 36911617,
+            "box_office_adj": 54126698,
+            "budget": 21000000,
+            "budget_adj": 30794117,
+            "title": "The Bachelor (1999)",
+            "year": 1999,
+            "decade": 1990
+        },
+        {
+            "box_office": 7266973,
+            "box_office_adj": 11979227,
+            "budget": 3200000,
+            "budget_adj": 5275033,
+            "title": "Barcelona",
+            "year": 1994,
+            "decade": 1990
+        },
+        {
+            "box_office": 11500000,
+            "box_office_adj": 17504361,
+            "budget": 16000000,
+            "budget_adj": 24353894,
+            "title": "The Beautician and the Beast",
+            "year": 1997,
+            "decade": 1990
+        },
+        {
+            "box_office": 40300000,
+            "box_office_adj": 59095378,
+            "budget": 35000000,
+            "budget_adj": 51323529,
+            "title": "Blast from the Past",
+            "year": 1999,
+            "decade": 1990
+        },
+        {
+            "box_office": 131000000,
+            "box_office_adj": 228106200,
+            "budget": 42000000,
+            "budget_adj": 73133285,
+            "title": "Boomerang (1992)",
+            "year": 1992,
+            "decade": 1990
+        },
+        {
+            "box_office": 20050376,
+            "box_office_adj": 30519045,
+            "budget": 7000000,
+            "budget_adj": 10654828,
+            "title": "Booty Call",
+            "year": 1997,
+            "decade": 1990
+        },
+        {
+            "box_office": 10000000,
+            "box_office_adj": 16030183,
+            "budget": 238000,
+            "budget_adj": 381518,
+            "title": "The Brothers McMullen",
+            "year": 1995,
+            "decade": 1990
+        },
+        {
+            "box_office": 2400000,
+            "box_office_adj": 3597055,
+            "budget": 1500000,
+            "budget_adj": 2248159,
+            "title": "Buffalo '66",
+            "year": 1998,
+            "decade": 1990
+        },
+        {
+            "box_office": 25605015,
+            "box_office_adj": 38376105,
+            "budget": 10000000,
+            "budget_adj": 14987730,
+            "title": "Can't Hardly Wait",
+            "year": 1998,
+            "decade": 1990
+        },
+        {
+            "box_office": 12000000,
+            "box_office_adj": 18265420,
+            "budget": 250000,
+            "budget_adj": 380529,
+            "title": "Chasing Amy",
+            "year": 1997,
+            "decade": 1990
+        },
+        {
+            "box_office": 56600000,
+            "box_office_adj": 90730839,
+            "budget": 12000000,
+            "budget_adj": 19236220,
+            "title": "Clueless",
+            "year": 1995,
+            "decade": 1990
+        },
+        {
+            "box_office": 548562,
+            "box_office_adj": 834976,
+            "budget": 5000000,
+            "budget_adj": 7610591,
+            "title": "Commandments",
+            "year": 1997,
+            "decade": 1990
+        },
+        {
+            "box_office": 1200000,
+            "box_office_adj": 2152422,
+            "budget": 6000000,
+            "budget_adj": 10762114,
+            "title": "Cool as Ice",
+            "year": 1991,
+            "decade": 1990
+        },
+        {
+            "box_office": 8300000,
+            "box_office_adj": 15514078,
+            "budget": 12000000,
+            "budget_adj": 22429992,
+            "title": "Cry-Baby",
+            "year": 1990,
+            "decade": 1990
+        },
+        {
+            "box_office": 33600000,
+            "box_office_adj": 60267841,
+            "budget": 25000000,
+            "budget_adj": 44842143,
+            "title": "Curly Sue",
+            "year": 1991,
+            "decade": 1990
+        },
+        {
+            "box_office": 10000000,
+            "box_office_adj": 16030183,
+            "budget": 98000000,
+            "budget_adj": 157095800,
+            "title": "Cutthroat Island",
+            "year": 1995,
+            "decade": 1990
+        },
+        {
+            "box_office": 92900000,
+            "box_office_adj": 136227310,
+            "budget": 17000000,
+            "budget_adj": 24928571,
+            "title": "Deuce Bigalow: Male Gigolo",
+            "year": 1999,
+            "decade": 1990
+        },
+        {
+            "box_office": 54830779,
+            "box_office_adj": 98349187,
+            "budget": 17000000,
+            "budget_adj": 30492657,
+            "title": "Doc Hollywood",
+            "year": 1991,
+            "decade": 1990
+        },
+        {
+            "box_office": 68792531,
+            "box_office_adj": 110275691,
+            "budget": 25000000,
+            "budget_adj": 40075459,
+            "title": "Don Juan DeMarco",
+            "year": 1995,
+            "decade": 1990
+        },
+        {
+            "box_office": 871759,
+            "box_office_adj": 1306568,
+            "budget": 1500000,
+            "budget_adj": 2248159,
+            "title": "Edge of Seventeen",
+            "year": 1998,
+            "decade": 1990
+        },
+        {
+            "box_office": 1700000,
+            "box_office_adj": 2874117,
+            "budget": 8000000,
+            "budget_adj": 13525259,
+            "title": "Even Cowgirls Get the Blues",
+            "year": 1993,
+            "decade": 1990
+        },
+        {
+            "box_office": 9800000,
+            "box_office_adj": 15259018,
+            "budget": 20000000,
+            "budget_adj": 31140854,
+            "title": "Everyone Says I Love You",
+            "year": 1996,
+            "decade": 1990
+        },
+        {
+            "box_office": 3134381,
+            "box_office_adj": 5166864,
+            "budget": 12000000,
+            "budget_adj": 19781376,
+            "title": "The Favor",
+            "year": 1994,
+            "decade": 1990
+        },
+        {
+            "box_office": 181000000,
+            "box_office_adj": 281824729,
+            "budget": 30000000,
+            "budget_adj": 46711281,
+            "title": "The First Wives Club",
+            "year": 1996,
+            "decade": 1990
+        },
+        {
+            "box_office": 29481428,
+            "box_office_adj": 44874223,
+            "budget": 20000000,
+            "budget_adj": 30442367,
+            "title": "Fools Rush In (1997)",
+            "year": 1997,
+            "decade": 1990
+        },
+        {
+            "box_office": 23202444,
+            "box_office_adj": 41617893,
+            "budget": 40000000,
+            "budget_adj": 71747430,
+            "title": "For the Boys",
+            "year": 1991,
+            "decade": 1990
+        },
+        {
+            "box_office": 2408311,
+            "box_office_adj": 3969975,
+            "budget": 15000,
+            "budget_adj": 24726,
+            "title": "Go Fish",
+            "year": 1994,
+            "decade": 1990
+        },
+        {
+            "box_office": 962000,
+            "box_office_adj": 1626412,
+            "budget": 914000,
+            "budget_adj": 1545260,
+            "title": "Going Hollywood",
+            "year": 1993,
+            "decade": 1990
+        },
+        {
+            "box_office": 28084357,
+            "box_office_adj": 42747715,
+            "budget": 15000000,
+            "budget_adj": 22831775,
+            "title": "Grosse Pointe Blank",
+            "year": 1997,
+            "decade": 1990
+        },
+        {
+            "box_office": 71500000,
+            "box_office_adj": 114615813,
+            "budget": 25000000,
+            "budget_adj": 40075459,
+            "title": "Grumpier Old Men",
+            "year": 1995,
+            "decade": 1990
+        },
+        {
+            "box_office": 70200000,
+            "box_office_adj": 118684152,
+            "budget": 35100000,
+            "budget_adj": 59342076,
+            "title": "Grumpy Old Men",
+            "year": 1993,
+            "decade": 1990
+        },
+        {
+            "box_office": 2284034,
+            "box_office_adj": 3423248,
+            "budget": 65000,
+            "budget_adj": 97420,
+            "title": "Hav Plenty",
+            "year": 1998,
+            "decade": 1990
+        },
+        {
+            "box_office": 9804775,
+            "box_office_adj": 17586685,
+            "budget": 15000000,
+            "budget_adj": 26905286,
+            "title": "He Said, She Said",
+            "year": 1991,
+            "decade": 1990
+        },
+        {
+            "box_office": 10459961,
+            "box_office_adj": 15677107,
+            "budget": 15000000,
+            "budget_adj": 22481595,
+            "title": "Home Fries",
+            "year": 1998,
+            "decade": 1990
+        },
+        {
+            "box_office": 26385627,
+            "box_office_adj": 49319117,
+            "budget": 2500000,
+            "budget_adj": 4672915,
+            "title": "House Party",
+            "year": 1990,
+            "decade": 1990
+        },
+        {
+            "box_office": 19438638,
+            "box_office_adj": 34866808,
+            "budget": 5000000,
+            "budget_adj": 8968428,
+            "title": "House Party 2",
+            "year": 1991,
+            "decade": 1990
+        },
+        {
+            "box_office": 39278722,
+            "box_office_adj": 58869888,
+            "budget": 20000000,
+            "budget_adj": 29975460,
+            "title": "How Stella Got Her Groove Back",
+            "year": 1998,
+            "decade": 1990
+        },
+        {
+            "box_office": 26381221,
+            "box_office_adj": 43488072,
+            "budget": 25000000,
+            "budget_adj": 41211201,
+            "title": "I.Q.",
+            "year": 1994,
+            "decade": 1990
+        },
+        {
+            "box_office": 63856929,
+            "box_office_adj": 97197805,
+            "budget": 35000000,
+            "budget_adj": 53274143,
+            "title": "In & Out",
+            "year": 1997,
+            "decade": 1990
+        },
+        {
+            "box_office": 1977544,
+            "box_office_adj": 3170039,
+            "budget": 250000,
+            "budget_adj": 400754,
+            "title": "The Incredibly True Adventure of Two Girls in Love",
+            "year": 1995,
+            "decade": 1990
+        },
+        {
+            "box_office": 8880705,
+            "box_office_adj": 14639380,
+            "budget": 8000000,
+            "budget_adj": 13187584,
+            "title": "The Inkwell",
+            "year": 1994,
+            "decade": 1990
+        },
+        {
+            "box_office": 39400000,
+            "box_office_adj": 73645141,
+            "budget": 25000000,
+            "budget_adj": 46729150,
+            "title": "Joe Versus the Volcano",
+            "year": 1990,
+            "decade": 1990
+        },
+        {
+            "box_office": 430404,
+            "box_office_adj": 631138,
+            "budget": 12000000,
+            "budget_adj": 17596638,
+            "title": "Just the Ticket",
+            "year": 1999,
+            "decade": 1990
+        },
+        {
+            "box_office": 4106588,
+            "box_office_adj": 6154843,
+            "budget": 19000000,
+            "budget_adj": 28476687,
+            "title": "Kissing a Fool",
+            "year": 1998,
+            "decade": 1990
+        },
+        {
+            "box_office": 4366722,
+            "box_office_adj": 6646667,
+            "budget": 12000000,
+            "budget_adj": 18265420,
+            "title": "A Life Less Ordinary",
+            "year": 1997,
+            "decade": 1990
+        },
+        {
+            "box_office": 6552255,
+            "box_office_adj": 9608138,
+            "budget": 30000000,
+            "budget_adj": 43991596,
+            "title": "Lost & Found (1999)",
+            "year": 1999,
+            "decade": 1990
+        },
+        {
+            "box_office": 8302478,
+            "box_office_adj": 12174642,
+            "budget": 20000000,
+            "budget_adj": 29327731,
+            "title": "The Love Letter (1999)",
+            "year": 1999,
+            "decade": 1990
+        },
+        {
+            "box_office": 2924635,
+            "box_office_adj": 4288645,
+            "budget": 4000000,
+            "budget_adj": 5865546,
+            "title": "Love Stinks",
+            "year": 1999,
+            "decade": 1990
+        },
+        {
+            "box_office": 10688490,
+            "box_office_adj": 18070575,
+            "budget": 19000000,
+            "budget_adj": 32122491,
+            "title": "Mad Dog and Glory",
+            "year": 1993,
+            "decade": 1990
+        },
+        {
+            "box_office": 4096030,
+            "box_office_adj": 7132288,
+            "budget": 30000000,
+            "budget_adj": 52238061,
+            "title": "Man Trouble",
+            "year": 1992,
+            "decade": 1990
+        },
+        {
+            "box_office": 3800000,
+            "box_office_adj": 6816005,
+            "budget": 13000000,
+            "budget_adj": 23317914,
+            "title": "Mannequin Two: On the Move",
+            "year": 1991,
+            "decade": 1990
+        },
+        {
+            "box_office": 5221281,
+            "box_office_adj": 8369809,
+            "budget": 6000000,
+            "budget_adj": 9618110,
+            "title": "Miami Rhapsody",
+            "year": 1995,
+            "decade": 1990
+        },
+        {
+            "box_office": 119718203,
+            "box_office_adj": 186406354,
+            "budget": 46000000,
+            "budget_adj": 71623964,
+            "title": "Michael (1996)",
+            "year": 1996,
+            "decade": 1990
+        },
+        {
+            "box_office": 54264342,
+            "box_office_adj": 79572501,
+            "budget": 75000000,
+            "budget_adj": 109978991,
+            "title": "Mickey Blue Eyes",
+            "year": 1999,
+            "decade": 1990
+        },
+        {
+            "box_office": 16071990,
+            "box_office_adj": 23567750,
+            "budget": 11000000,
+            "budget_adj": 16130252,
+            "title": "A Midsummer Night's Dream (1999)",
+            "year": 1999,
+            "decade": 1990
+        },
+        {
+            "box_office": 45100000,
+            "box_office_adj": 74345006,
+            "budget": 20000000,
+            "budget_adj": 32968960,
+            "title": "Milk Money",
+            "year": 1994,
+            "decade": 1990
+        },
+        {
+            "box_office": 91610201,
+            "box_office_adj": 142640994,
+            "budget": 42000000,
+            "budget_adj": 65395793,
+            "title": "The Mirror Has Two Faces",
+            "year": 1996,
+            "decade": 1990
+        },
+        {
+            "box_office": 2034470,
+            "box_office_adj": 3542558,
+            "budget": 14000000,
+            "budget_adj": 24377761,
+            "title": "Mom and Dad Save the World",
+            "year": 1992,
+            "decade": 1990
+        },
+        {
+            "box_office": 3125424,
+            "box_office_adj": 5284021,
+            "budget": 13000000,
+            "budget_adj": 21978546,
+            "title": "Mr. Wonderful",
+            "year": 1993,
+            "decade": 1990
+        },
+        {
+            "box_office": 12800000,
+            "box_office_adj": 19930146,
+            "budget": 19000000,
+            "budget_adj": 29583811,
+            "title": "Mr. Wrong",
+            "year": 1996,
+            "decade": 1990
+        },
+        {
+            "box_office": 10082005,
+            "box_office_adj": 15698112,
+            "budget": 25000000,
+            "budget_adj": 38926067,
+            "title": "Mrs. Winterbourne",
+            "year": 1996,
+            "decade": 1990
+        },
+        {
+            "box_office": 36000000,
+            "box_office_adj": 60863667,
+            "budget": 11000000,
+            "budget_adj": 18597231,
+            "title": "Much Ado About Nothing (1993)",
+            "year": 1993,
+            "decade": 1990
+        },
+        {
+            "box_office": 4555459,
+            "box_office_adj": 6680063,
+            "budget": 28000000,
+            "budget_adj": 41058823,
+            "title": "Mumford",
+            "year": 1999,
+            "decade": 1990
+        },
+        {
+            "box_office": 299300000,
+            "box_office_adj": 455570031,
+            "budget": 38000000,
+            "budget_adj": 57840498,
+            "title": "My Best Friend's Wedding",
+            "year": 1997,
+            "decade": 1990
+        },
+        {
+            "box_office": 84565230,
+            "box_office_adj": 124005316,
+            "budget": 25000000,
+            "budget_adj": 36659663,
+            "title": "Never Been Kissed",
+            "year": 1999,
+            "decade": 1990
+        },
+        {
+            "box_office": 274000000,
+            "box_office_adj": 426629700,
+            "budget": 54000000,
+            "budget_adj": 84080305,
+            "title": "The Nutty Professor (1996)",
+            "year": 1996,
+            "decade": 1990
+        },
+        {
+            "box_office": 14851083,
+            "box_office_adj": 26638176,
+            "budget": 16000000,
+            "budget_adj": 28698972,
+            "title": "Once Around",
+            "year": 1991,
+            "decade": 1990
+        },
+        {
+            "box_office": 27800000,
+            "box_office_adj": 40765546,
+            "budget": 35000000,
+            "budget_adj": 51323529,
+            "title": "The Other Sister",
+            "year": 1999,
+            "decade": 1990
+        },
+        {
+            "box_office": 5700000,
+            "box_office_adj": 8875143,
+            "budget": 8000000,
+            "budget_adj": 12456341,
+            "title": "The Pallbearer",
+            "year": 1996,
+            "decade": 1990
+        },
+        {
+            "box_office": 83900000,
+            "box_office_adj": 125747055,
+            "budget": 15000000,
+            "budget_adj": 22481595,
+            "title": "The Parent Trap (1998)",
+            "year": 1998,
+            "decade": 1990
+        },
+        {
+            "box_office": 3983912,
+            "box_office_adj": 6386284,
+            "budget": 28000000,
+            "budget_adj": 44884514,
+            "title": "The Pebble and the Penguin",
+            "year": 1995,
+            "decade": 1990
+        },
+        {
+            "box_office": 44300000,
+            "box_office_adj": 67429844,
+            "budget": 19000000,
+            "budget_adj": 28920249,
+            "title": "Picture Perfect (1997)",
+            "year": 1997,
+            "decade": 1990
+        },
+        {
+            "box_office": 68097643,
+            "box_office_adj": 102062909,
+            "budget": 75000000,
+            "budget_adj": 112407975,
+            "title": "Practical Magic",
+            "year": 1998,
+            "decade": 1990
+        },
+        {
+            "box_office": 463400000,
+            "box_office_adj": 866171537,
+            "budget": 14000000,
+            "budget_adj": 26168324,
+            "title": "Pretty Woman",
+            "year": 1990,
+            "decade": 1990
+        },
+        {
+            "box_office": 33351557,
+            "box_office_adj": 54978308,
+            "budget": 11500000,
+            "budget_adj": 18957152,
+            "title": "Reality Bites",
+            "year": 1994,
+            "decade": 1990
+        },
+        {
+            "box_office": 309400000,
+            "box_office_adj": 453700000,
+            "budget": 70000000,
+            "budget_adj": 102647058,
+            "title": "Runaway Bride",
+            "year": 1999,
+            "decade": 1990
+        },
+        {
+            "box_office": 53458319,
+            "box_office_adj": 85694667,
+            "budget": 50000000,
+            "budget_adj": 80150918,
+            "title": "Sabrina (1995)",
+            "year": 1995,
+            "decade": 1990
+        },
+        {
+            "box_office": 12874899,
+            "box_office_adj": 19296551,
+            "budget": 15000000,
+            "budget_adj": 22481595,
+            "title": "Senseless",
+            "year": 1998,
+            "decade": 1990
+        },
+        {
+            "box_office": 289300000,
+            "box_office_adj": 433595030,
+            "budget": 25000000,
+            "budget_adj": 37469325,
+            "title": "Shakespeare in Love",
+            "year": 1998,
+            "decade": 1990
+        },
+        {
+            "box_office": 103166989,
+            "box_office_adj": 151282685,
+            "budget": 10000000,
+            "budget_adj": 14663865,
+            "title": "She's All That",
+            "year": 1999,
+            "decade": 1990
+        },
+        {
+            "box_office": 13800000,
+            "box_office_adj": 21487189,
+            "budget": 3000000,
+            "budget_adj": 4671128,
+            "title": "She's the One (1996)",
+            "year": 1996,
+            "decade": 1990
+        },
+        {
+            "box_office": 4389989,
+            "box_office_adj": 6437420,
+            "budget": 6000000,
+            "budget_adj": 8798319,
+            "title": "Simply Irresistible",
+            "year": 1999,
+            "decade": 1990
+        },
+        {
+            "box_office": 18500000,
+            "box_office_adj": 32213471,
+            "budget": 9000000,
+            "budget_adj": 15671418,
+            "title": "Singles (1992)",
+            "year": 1992,
+            "decade": 1990
+        },
+        {
+            "box_office": 164800000,
+            "box_office_adj": 246997791,
+            "budget": 70000000,
+            "budget_adj": 104914110,
+            "title": "Six Days, Seven Nights",
+            "year": 1998,
+            "decade": 1990
+        },
+        {
+            "box_office": 227800000,
+            "box_office_adj": 385131764,
+            "budget": 21000000,
+            "budget_adj": 35503806,
+            "title": "Sleepless in Seattle",
+            "year": 1993,
+            "decade": 1990
+        },
+        {
+            "box_office": 50900000,
+            "box_office_adj": 81593635,
+            "budget": 30000000,
+            "budget_adj": 48090551,
+            "title": "Something to Talk About",
+            "year": 1995,
+            "decade": 1990
+        },
+        {
+            "box_office": 36448400,
+            "box_office_adj": 61621758,
+            "budget": 20000000,
+            "budget_adj": 33813148,
+            "title": "Son in Law",
+            "year": 1993,
+            "decade": 1990
+        },
+        {
+            "box_office": 9700000,
+            "box_office_adj": 15989946,
+            "budget": 21000000,
+            "budget_adj": 34617408,
+            "title": "The Swan Princess",
+            "year": 1994,
+            "decade": 1990
+        },
+        {
+            "box_office": 4600000,
+            "box_office_adj": 7162396,
+            "budget": 200000,
+            "budget_adj": 311408,
+            "title": "Swingers (1996)",
+            "year": 1996,
+            "decade": 1990
+        },
+        {
+            "box_office": 34000000,
+            "box_office_adj": 52939451,
+            "budget": 26000000,
+            "budget_adj": 40483110,
+            "title": "That Thing You Do!",
+            "year": 1996,
+            "decade": 1990
+        },
+        {
+            "box_office": 369900000,
+            "box_office_adj": 554396134,
+            "budget": 23000000,
+            "budget_adj": 34471779,
+            "title": "There's Something About Mary",
+            "year": 1998,
+            "decade": 1990
+        },
+        {
+            "box_office": 34746109,
+            "box_office_adj": 54101175,
+            "budget": 8000000,
+            "budget_adj": 12456341,
+            "title": "A Thin Line Between Love and Hate",
+            "year": 1996,
+            "decade": 1990
+        },
+        {
+            "box_office": 1029721,
+            "box_office_adj": 1740905,
+            "budget": 14000000,
+            "budget_adj": 23669204,
+            "title": "The Thing Called Love",
+            "year": 1993,
+            "decade": 1990
+        },
+        {
+            "box_office": 10570375,
+            "box_office_adj": 15500255,
+            "budget": 20000000,
+            "budget_adj": 29327731,
+            "title": "Three to Tango",
+            "year": 1999,
+            "decade": 1990
+        },
+        {
+            "box_office": 2087228,
+            "box_office_adj": 3060683,
+            "budget": 450000,
+            "budget_adj": 659873,
+            "title": "Trick",
+            "year": 1999,
+            "decade": 1990
+        },
+        {
+            "box_office": 1141556,
+            "box_office_adj": 1829935,
+            "budget": 24000000,
+            "budget_adj": 38472440,
+            "title": "Two Much",
+            "year": 1995,
+            "decade": 1990
+        },
+        {
+            "box_office": 18000000,
+            "box_office_adj": 31342836,
+            "budget": 16000000,
+            "budget_adj": 27860299,
+            "title": "Used People",
+            "year": 1992,
+            "decade": 1990
+        },
+        {
+            "box_office": 82000000,
+            "box_office_adj": 131447506,
+            "budget": 16000000,
+            "budget_adj": 25648293,
+            "title": "Waiting to Exhale",
+            "year": 1995,
+            "decade": 1990
+        },
+        {
+            "box_office": 123300000,
+            "box_office_adj": 184798711,
+            "budget": 18000000,
+            "budget_adj": 26977914,
+            "title": "The Wedding Singer",
+            "year": 1998,
+            "decade": 1990
+        },
+        {
+            "box_office": 1106475,
+            "box_office_adj": 2068185,
+            "budget": 22000000,
+            "budget_adj": 41121652,
+            "title": "Where the Heart Is (1990)",
+            "year": 1990,
+            "decade": 1990
+        },
+        {
+            "box_office": 182057016,
+            "box_office_adj": 291840741,
+            "budget": 17000000,
+            "budget_adj": 27251312,
+            "title": "While You Were Sleeping",
+            "year": 1995,
+            "decade": 1990
+        },
+        {
+            "box_office": 25059640,
+            "box_office_adj": 36747119,
+            "budget": 6000000,
+            "budget_adj": 8798319,
+            "title": "The Wood",
+            "year": 1999,
+            "decade": 1990
+        },
+        {
+            "box_office": 250800000,
+            "box_office_adj": 375892269,
+            "budget": 65000000,
+            "budget_adj": 97420245,
+            "title": "You've Got Mail",
+            "year": 1998,
+            "decade": 1990
+        }
+    ],
+    "2000": [
+        {
+            "box_office": 96500000,
+            "box_office_adj": 124801217,
+            "budget": 37000000,
+            "budget_adj": 47851244,
+            "title": "13 Going on 30",
+            "year": 2004,
+            "decade": 2000
+        },
+        {
+            "box_office": 136300000,
+            "box_office_adj": 155235850,
+            "budget": 40000000,
+            "budget_adj": 45557109,
+            "title": "17 Again",
+            "year": 2009,
+            "decade": 2000
+        },
+        {
+            "box_office": 160300000,
+            "box_office_adj": 181891732,
+            "budget": 30000000,
+            "budget_adj": 34040873,
+            "title": "27 Dresses",
+            "year": 2008,
+            "decade": 2000
+        },
+        {
+            "box_office": 95100000,
+            "box_office_adj": 129143579,
+            "budget": 17000000,
+            "budget_adj": 23085603,
+            "title": "40 Days and 40 Nights",
+            "year": 2002,
+            "decade": 2000
+        },
+        {
+            "box_office": 177400000,
+            "box_office_adj": 221908960,
+            "budget": 26000000,
+            "budget_adj": 32523297,
+            "title": "The 40-Year-Old Virgin",
+            "year": 2005,
+            "decade": 2000
+        },
+        {
+            "box_office": 196300000,
+            "box_office_adj": 253870248,
+            "budget": 75000000,
+            "budget_adj": 96995764,
+            "title": "50 First Dates",
+            "year": 2004,
+            "decade": 2000
+        },
+        {
+            "box_office": 60700000,
+            "box_office_adj": 69132913,
+            "budget": 7500000,
+            "budget_adj": 8541958,
+            "title": "500 Days of Summer",
+            "year": 2009,
+            "decade": 2000
+        },
+        {
+            "box_office": 130500000,
+            "box_office_adj": 177215953,
+            "budget": 30000000,
+            "budget_adj": 40739299,
+            "title": "About a Boy",
+            "year": 2002,
+            "decade": 2000
+        },
+        {
+            "box_office": 17200000,
+            "box_office_adj": 19589557,
+            "budget": 9800000,
+            "budget_adj": 11161491,
+            "title": "Adventureland",
+            "year": 2009,
+            "decade": 2000
+        },
+        {
+            "box_office": 58700000,
+            "box_office_adj": 77937010,
+            "budget": 28000000,
+            "budget_adj": 37176086,
+            "title": "Agent Cody Banks",
+            "year": 2003,
+            "decade": 2000
+        },
+        {
+            "box_office": 15000000,
+            "box_office_adj": 19915760,
+            "budget": 30000000,
+            "budget_adj": 39831521,
+            "title": "Alex & Emma",
+            "year": 2003,
+            "decade": 2000
+        },
+        {
+            "box_office": 35200000,
+            "box_office_adj": 45523345,
+            "budget": 60000000,
+            "budget_adj": 77596611,
+            "title": "Alfie (2004)",
+            "year": 2004,
+            "decade": 2000
+        },
+        {
+            "box_office": 40100000,
+            "box_office_adj": 45671002,
+            "budget": 15000000,
+            "budget_adj": 17083916,
+            "title": "All About Steve",
+            "year": 2009,
+            "decade": 2000
+        },
+        {
+            "box_office": 173000000,
+            "box_office_adj": 223736897,
+            "budget": 42000000,
+            "budget_adj": 54317628,
+            "title": "Along Came Polly",
+            "year": 2004,
+            "decade": 2000
+        },
+        {
+            "box_office": 138200000,
+            "box_office_adj": 190639525,
+            "budget": 64400000,
+            "budget_adj": 88836363,
+            "title": "America's Sweethearts",
+            "year": 2001,
+            "decade": 2000
+        },
+        {
+            "box_office": 231449203,
+            "box_office_adj": 307299132,
+            "budget": 55000000,
+            "budget_adj": 73024456,
+            "title": "American Wedding",
+            "year": 2003,
+            "decade": 2000
+        },
+        {
+            "box_office": 14369,
+            "box_office_adj": 19512,
+            "budget": 2000000,
+            "budget_adj": 2715953,
+            "title": "The Anarchist Cookbook",
+            "year": 2002,
+            "decade": 2000
+        },
+        {
+            "box_office": 745327,
+            "box_office_adj": 903191,
+            "budget": 500000,
+            "budget_adj": 605902,
+            "title": "Another Gay Movie",
+            "year": 2006,
+            "decade": 2000
+        },
+        {
+            "box_office": 13585075,
+            "box_office_adj": 18037140,
+            "budget": 18000000,
+            "budget_adj": 23898913,
+            "title": "Anything Else",
+            "year": 2003,
+            "decade": 2000
+        },
+        {
+            "box_office": 64200000,
+            "box_office_adj": 72847468,
+            "budget": 30000000,
+            "budget_adj": 34040873,
+            "title": "Baby Mama",
+            "year": 2008,
+            "decade": 2000
+        },
+        {
+            "box_office": 67600000,
+            "box_office_adj": 93250592,
+            "budget": 75000000,
+            "budget_adj": 103458498,
+            "title": "Bandits (2001)",
+            "year": 2001,
+            "decade": 2000
+        },
+        {
+            "box_office": 12225023,
+            "box_office_adj": 13923417,
+            "budget": 20000000,
+            "budget_adj": 22778554,
+            "title": "Bandslam",
+            "year": 2009,
+            "decade": 2000
+        },
+        {
+            "box_office": 280351,
+            "box_office_adj": 372226,
+            "budget": 1000000,
+            "budget_adj": 1327717,
+            "title": "The Battle of Shaker Heights",
+            "year": 2003,
+            "decade": 2000
+        },
+        {
+            "box_office": 69485490,
+            "box_office_adj": 81887627,
+            "budget": 39000000,
+            "budget_adj": 45960926,
+            "title": "Because I Said So",
+            "year": 2007,
+            "decade": 2000
+        },
+        {
+            "box_office": 90383208,
+            "box_office_adj": 128226583,
+            "budget": 48000000,
+            "budget_adj": 68097560,
+            "title": "Bedazzled (2000)",
+            "year": 2000,
+            "decade": 2000
+        },
+        {
+            "box_office": 76600000,
+            "box_office_adj": 104021011,
+            "budget": 6000000,
+            "budget_adj": 8147859,
+            "title": "Bend It Like Beckham",
+            "year": 2002,
+            "decade": 2000
+        },
+        {
+            "box_office": 1530479,
+            "box_office_adj": 1803646,
+            "budget": 40000000,
+            "budget_adj": 47139411,
+            "title": "Blonde Ambition",
+            "year": 2007,
+            "decade": 2000
+        },
+        {
+            "box_office": 15000000,
+            "box_office_adj": 20369649,
+            "budget": 20000000,
+            "budget_adj": 27159533,
+            "title": "Boat Trip",
+            "year": 2002,
+            "decade": 2000
+        },
+        {
+            "box_office": 71300000,
+            "box_office_adj": 101153252,
+            "budget": 35000000,
+            "budget_adj": 49654471,
+            "title": "Boys and Girls (2000)",
+            "year": 2000,
+            "decade": 2000
+        },
+        {
+            "box_office": 205700000,
+            "box_office_adj": 249268402,
+            "budget": 52000000,
+            "budget_adj": 63013888,
+            "title": "The Break-Up",
+            "year": 2006,
+            "decade": 2000
+        },
+        {
+            "box_office": 114700000,
+            "box_office_adj": 130635011,
+            "budget": 30000000,
+            "budget_adj": 34167832,
+            "title": "Bride Wars",
+            "year": 2009,
+            "decade": 2000
+        },
+        {
+            "box_office": 262500000,
+            "box_office_adj": 339485177,
+            "budget": 40000000,
+            "budget_adj": 51731074,
+            "title": "Bridget Jones: The Edge of Reason",
+            "year": 2004,
+            "decade": 2000
+        },
+        {
+            "box_office": 281900000,
+            "box_office_adj": 388866007,
+            "budget": 25000000,
+            "budget_adj": 34486166,
+            "title": "Bridget Jones's Diary",
+            "year": 2001,
+            "decade": 2000
+        },
+        {
+            "box_office": 164700000,
+            "box_office_adj": 218675054,
+            "budget": 33000000,
+            "budget_adj": 43814673,
+            "title": "Bringing Down the House",
+            "year": 2003,
+            "decade": 2000
+        },
+        {
+            "box_office": 5500000,
+            "box_office_adj": 6240826,
+            "budget": 20000000,
+            "budget_adj": 22693915,
+            "title": "The Brothers Bloom",
+            "year": 2008,
+            "decade": 2000
+        },
+        {
+            "box_office": 484600000,
+            "box_office_adj": 643411847,
+            "budget": 81000000,
+            "budget_adj": 107545108,
+            "title": "Bruce Almighty",
+            "year": 2003,
+            "decade": 2000
+        },
+        {
+            "box_office": 7000000,
+            "box_office_adj": 9930894,
+            "budget": 2000000,
+            "budget_adj": 2837398,
+            "title": "Can't Be Heaven",
+            "year": 2000,
+            "decade": 2000
+        },
+        {
+            "box_office": 16000000,
+            "box_office_adj": 19388888,
+            "budget": 25000000,
+            "budget_adj": 30295138,
+            "title": "Catch and Release",
+            "year": 2006,
+            "decade": 2000
+        },
+        {
+            "box_office": 12000000,
+            "box_office_adj": 15519322,
+            "budget": 23000000,
+            "budget_adj": 29745367,
+            "title": "Chasing Liberty",
+            "year": 2004,
+            "decade": 2000
+        },
+        {
+            "box_office": 70100000,
+            "box_office_adj": 90658708,
+            "budget": 19000000,
+            "budget_adj": 24572260,
+            "title": "A Cinderella Story",
+            "year": 2004,
+            "decade": 2000
+        },
+        {
+            "box_office": 108300000,
+            "box_office_adj": 123345874,
+            "budget": 55000000,
+            "budget_adj": 62641025,
+            "title": "Confessions of a Shopaholic",
+            "year": 2009,
+            "decade": 2000
+        },
+        {
+            "box_office": 171800000,
+            "box_office_adj": 195667785,
+            "budget": 60000000,
+            "budget_adj": 68335664,
+            "title": "Couples Retreat",
+            "year": 2009,
+            "decade": 2000
+        },
+        {
+            "box_office": 113900000,
+            "box_office_adj": 161589837,
+            "budget": 45000000,
+            "budget_adj": 63841463,
+            "title": "Coyote Ugly",
+            "year": 2000,
+            "decade": 2000
+        },
+        {
+            "box_office": 84800000,
+            "box_office_adj": 102761111,
+            "budget": 20000000,
+            "budget_adj": 24236111,
+            "title": "Date Movie",
+            "year": 2006,
+            "decade": 2000
+        },
+        {
+            "box_office": 22844291,
+            "box_office_adj": 32409177,
+            "budget": 23000000,
+            "budget_adj": 32630081,
+            "title": "Dr. T & the Women",
+            "year": 2000,
+            "decade": 2000
+        },
+        {
+            "box_office": 24400000,
+            "box_office_adj": 34616260,
+            "budget": 35000000,
+            "budget_adj": 49654471,
+            "title": "Down to You",
+            "year": 2000,
+            "decade": 2000
+        },
+        {
+            "box_office": 57600000,
+            "box_office_adj": 78219455,
+            "budget": 20000000,
+            "budget_adj": 27159533,
+            "title": "Drumline",
+            "year": 2002,
+            "decade": 2000
+        },
+        {
+            "box_office": 78100000,
+            "box_office_adj": 88950256,
+            "budget": 60000000,
+            "budget_adj": 68335664,
+            "title": "Duplicity",
+            "year": 2009,
+            "decade": 2000
+        },
+        {
+            "box_office": 155212,
+            "box_office_adj": 200732,
+            "budget": 50000,
+            "budget_adj": 64663,
+            "title": "Eating Out",
+            "year": 2004,
+            "decade": 2000
+        },
+        {
+            "box_office": 52000000,
+            "box_office_adj": 65046594,
+            "budget": 45000000,
+            "budget_adj": 56290322,
+            "title": "Elizabethtown",
+            "year": 2005,
+            "decade": 2000
+        },
+        {
+            "box_office": 27400000,
+            "box_office_adj": 35435786,
+            "budget": 31000000,
+            "budget_adj": 40091582,
+            "title": "Ella Enchanted",
+            "year": 2004,
+            "decade": 2000
+        },
+        {
+            "box_office": 38400000,
+            "box_office_adj": 46533333,
+            "budget": 12000000,
+            "budget_adj": 14541666,
+            "title": "Employee of the Month (2006)",
+            "year": 2006,
+            "decade": 2000
+        },
+        {
+            "box_office": 340500000,
+            "box_office_adj": 401274240,
+            "budget": 85000000,
+            "budget_adj": 100171249,
+            "title": "Enchanted",
+            "year": 2007,
+            "decade": 2000
+        },
+        {
+            "box_office": 72300000,
+            "box_office_adj": 93503917,
+            "budget": 20000000,
+            "budget_adj": 25865537,
+            "title": "Eternal Sunshine of the Spotless Mind",
+            "year": 2004,
+            "decade": 2000
+        },
+        {
+            "box_office": 128400000,
+            "box_office_adj": 155595833,
+            "budget": 50000000,
+            "budget_adj": 60590277,
+            "title": "Failure to Launch",
+            "year": 2006,
+            "decade": 2000
+        },
+        {
+            "box_office": 124700000,
+            "box_office_adj": 176911788,
+            "budget": 60000000,
+            "budget_adj": 85121951,
+            "title": "The Family Man",
+            "year": 2000,
+            "decade": 2000
+        },
+        {
+            "box_office": 48600000,
+            "box_office_adj": 62853255,
+            "budget": 45000000,
+            "budget_adj": 58197458,
+            "title": "Fat Albert",
+            "year": 2004,
+            "decade": 2000
+        },
+        {
+            "box_office": 50500000,
+            "box_office_adj": 63170250,
+            "budget": 30000000,
+            "budget_adj": 37526881,
+            "title": "Fever Pitch (2005)",
+            "year": 2005,
+            "decade": 2000
+        },
+        {
+            "box_office": 32750821,
+            "box_office_adj": 43483834,
+            "budget": 30000000,
+            "budget_adj": 39831521,
+            "title": "The Fighting Temptations",
+            "year": 2003,
+            "decade": 2000
+        },
+        {
+            "box_office": 10400000,
+            "box_office_adj": 13450079,
+            "budget": 30000000,
+            "budget_adj": 38798305,
+            "title": "First Daughter (2004)",
+            "year": 2004,
+            "decade": 2000
+        },
+        {
+            "box_office": 59500000,
+            "box_office_adj": 84412601,
+            "budget": 83000000,
+            "budget_adj": 117752032,
+            "title": "The Flintstones in Viva Rock Vegas",
+            "year": 2000,
+            "decade": 2000
+        },
+        {
+            "box_office": 105200000,
+            "box_office_adj": 119369995,
+            "budget": 30000000,
+            "budget_adj": 34040873,
+            "title": "Forgetting Sarah Marshall",
+            "year": 2008,
+            "decade": 2000
+        },
+        {
+            "box_office": 4900000,
+            "box_office_adj": 6505815,
+            "budget": 12000000,
+            "budget_adj": 15932608,
+            "title": "From Justin to Kelly",
+            "year": 2003,
+            "decade": 2000
+        },
+        {
+            "box_office": 35825316,
+            "box_office_adj": 46332052,
+            "budget": 2500000,
+            "budget_adj": 3233192,
+            "title": "Garden State",
+            "year": 2004,
+            "decade": 2000
+        },
+        {
+            "box_office": 19900000,
+            "box_office_adj": 27450988,
+            "budget": 22000000,
+            "budget_adj": 30347826,
+            "title": "Get Over It",
+            "year": 2001,
+            "decade": 2000
+        },
+        {
+            "box_office": 102200000,
+            "box_office_adj": 116398414,
+            "budget": 37500000,
+            "budget_adj": 42709790,
+            "title": "Ghosts of Girlfriends Past",
+            "year": 2009,
+            "decade": 2000
+        },
+        {
+            "box_office": 7300000,
+            "box_office_adj": 9692336,
+            "budget": 75600000,
+            "budget_adj": 100375434,
+            "title": "Gigli",
+            "year": 2003,
+            "decade": 2000
+        },
+        {
+            "box_office": 100688,
+            "box_office_adj": 114676,
+            "budget": 3200000,
+            "budget_adj": 3644568,
+            "title": "The Good Guy",
+            "year": 2009,
+            "decade": 2000
+        },
+        {
+            "box_office": 59200000,
+            "box_office_adj": 69766328,
+            "budget": 25000000,
+            "budget_adj": 29462132,
+            "title": "Good Luck Chuck",
+            "year": 2007,
+            "decade": 2000
+        },
+        {
+            "box_office": 42100000,
+            "box_office_adj": 51017013,
+            "budget": 35000000,
+            "budget_adj": 42413194,
+            "title": "A Good Year",
+            "year": 2006,
+            "decade": 2000
+        },
+        {
+            "box_office": 59000,
+            "box_office_adj": 71496,
+            "budget": 2000000,
+            "budget_adj": 2423611,
+            "title": "Gray Matters (2006)",
+            "year": 2006,
+            "decade": 2000
+        },
+        {
+            "box_office": 101800000,
+            "box_office_adj": 127341218,
+            "budget": 35000000,
+            "budget_adj": 43781362,
+            "title": "Guess Who",
+            "year": 2005,
+            "decade": 2000
+        },
+        {
+            "box_office": 24128852,
+            "box_office_adj": 32766417,
+            "budget": 11000000,
+            "budget_adj": 14937743,
+            "title": "The Guru (2002)",
+            "year": 2002,
+            "decade": 2000
+        },
+        {
+            "box_office": 17432163,
+            "box_office_adj": 23144985,
+            "budget": 20000000,
+            "budget_adj": 26554347,
+            "title": "A Guy Thing",
+            "year": 2003,
+            "decade": 2000
+        },
+        {
+            "box_office": 202500000,
+            "box_office_adj": 238643270,
+            "budget": 75000000,
+            "budget_adj": 88386396,
+            "title": "Hairspray (2007)",
+            "year": 2007,
+            "decade": 2000
+        },
+        {
+            "box_office": 181100000,
+            "box_office_adj": 206259813,
+            "budget": 40000000,
+            "budget_adj": 45557109,
+            "title": "He's Just Not That into You",
+            "year": 2009,
+            "decade": 2000
+        },
+        {
+            "box_office": 13127022,
+            "box_office_adj": 18108026,
+            "budget": 14000000,
+            "budget_adj": 19312252,
+            "title": "Head over Heels (2001)",
+            "year": 2001,
+            "decade": 2000
+        },
+        {
+            "box_office": 1100000,
+            "box_office_adj": 1332986,
+            "budget": 3000000,
+            "budget_adj": 3635416,
+            "title": "The Heart Specialist",
+            "year": 2006,
+            "decade": 2000
+        },
+        {
+            "box_office": 127800000,
+            "box_office_adj": 150610419,
+            "budget": 60000000,
+            "budget_adj": 70709117,
+            "title": "The Heartbreak Kid (2007)",
+            "year": 2007,
+            "decade": 2000
+        },
+        {
+            "box_office": 57756408,
+            "box_office_adj": 79671882,
+            "budget": 35000000,
+            "budget_adj": 48280632,
+            "title": "Heartbreakers (2001)",
+            "year": 2001,
+            "decade": 2000
+        },
+        {
+            "box_office": 3600000,
+            "box_office_adj": 4966007,
+            "budget": 6000000,
+            "budget_adj": 8276679,
+            "title": "Hedwig and the Angry Inch",
+            "year": 2001,
+            "decade": 2000
+        },
+        {
+            "box_office": 47100000,
+            "box_office_adj": 66820731,
+            "budget": 30000000,
+            "budget_adj": 42560975,
+            "title": "High Fidelity",
+            "year": 2000,
+            "decade": 2000
+        },
+        {
+            "box_office": 252900000,
+            "box_office_adj": 286964561,
+            "budget": 11000000,
+            "budget_adj": 12481653,
+            "title": "High School Musical 3: Senior Year",
+            "year": 2008,
+            "decade": 2000
+        },
+        {
+            "box_office": 368100000,
+            "box_office_adj": 460454838,
+            "budget": 70000000,
+            "budget_adj": 87562724,
+            "title": "Hitch",
+            "year": 2005,
+            "decade": 2000
+        },
+        {
+            "box_office": 205100000,
+            "box_office_adj": 248541319,
+            "budget": 85000000,
+            "budget_adj": 103003472,
+            "title": "The Holiday",
+            "year": 2006,
+            "decade": 2000
+        },
+        {
+            "box_office": 70400000,
+            "box_office_adj": 79882582,
+            "budget": 25000000,
+            "budget_adj": 28367394,
+            "title": "The House Bunny",
+            "year": 2008,
+            "decade": 2000
+        },
+        {
+            "box_office": 177400000,
+            "box_office_adj": 235537065,
+            "budget": 50000000,
+            "budget_adj": 66385869,
+            "title": "How to Lose a Guy in 10 Days",
+            "year": 2003,
+            "decade": 2000
+        },
+        {
+            "box_office": 51733921,
+            "box_office_adj": 58921197,
+            "budget": 19000000,
+            "budget_adj": 21639627,
+            "title": "I Can Do Bad All by Myself",
+            "year": 2009,
+            "decade": 2000
+        },
+        {
+            "box_office": 9576495,
+            "box_office_adj": 11285758,
+            "budget": 24000000,
+            "budget_adj": 28283646,
+            "title": "I Could Never Be Your Woman",
+            "year": 2007,
+            "decade": 2000
+        },
+        {
+            "box_office": 20700000,
+            "box_office_adj": 23575804,
+            "budget": 13000000,
+            "budget_adj": 14806060,
+            "title": "I Love You Phillip Morris",
+            "year": 2009,
+            "decade": 2000
+        },
+        {
+            "box_office": 13196245,
+            "box_office_adj": 15551580,
+            "budget": 11000000,
+            "budget_adj": 12963338,
+            "title": "I Think I Love My Wife",
+            "year": 2007,
+            "decade": 2000
+        },
+        {
+            "box_office": 194568,
+            "box_office_adj": 235778,
+            "budget": 1500000,
+            "budget_adj": 1817708,
+            "title": "I Want Someone to Eat Cheese With",
+            "year": 2006,
+            "decade": 2000
+        },
+        {
+            "box_office": 17290970,
+            "box_office_adj": 23480733,
+            "budget": 15000000,
+            "budget_adj": 20369649,
+            "title": "The Importance of Being Earnest (2002)",
+            "year": 2002,
+            "decade": 2000
+        },
+        {
+            "box_office": 26891849,
+            "box_office_adj": 35704775,
+            "budget": 40000000,
+            "budget_adj": 53108695,
+            "title": "The In-Laws (2003)",
+            "year": 2003,
+            "decade": 2000
+        },
+        {
+            "box_office": 120200000,
+            "box_office_adj": 159591630,
+            "budget": 60000000,
+            "budget_adj": 79663043,
+            "title": "Intolerable Cruelty",
+            "year": 2003,
+            "decade": 2000
+        },
+        {
+            "box_office": 32700000,
+            "box_office_adj": 37242937,
+            "budget": 18500000,
+            "budget_adj": 21070163,
+            "title": "The Invention of Lying",
+            "year": 2009,
+            "decade": 2000
+        },
+        {
+            "box_office": 219100000,
+            "box_office_adj": 249539067,
+            "budget": 85000000,
+            "budget_adj": 96808857,
+            "title": "It's Complicated",
+            "year": 2009,
+            "decade": 2000
+        },
+        {
+            "box_office": 36100000,
+            "box_office_adj": 46687294,
+            "budget": 35000000,
+            "budget_adj": 45264690,
+            "title": "Jersey Girl (2004)",
+            "year": 2004,
+            "decade": 2000
+        },
+        {
+            "box_office": 68800000,
+            "box_office_adj": 83372222,
+            "budget": 18000000,
+            "budget_adj": 21812500,
+            "title": "John Tucker Must Die",
+            "year": 2006,
+            "decade": 2000
+        },
+        {
+            "box_office": 102800000,
+            "box_office_adj": 128592114,
+            "budget": 58000000,
+            "budget_adj": 72551971,
+            "title": "Just like Heaven",
+            "year": 2005,
+            "decade": 2000
+        },
+        {
+            "box_office": 101500000,
+            "box_office_adj": 134763315,
+            "budget": 18000000,
+            "budget_adj": 23898913,
+            "title": "Just Married",
+            "year": 2003,
+            "decade": 2000
+        },
+        {
+            "box_office": 38200000,
+            "box_office_adj": 46290972,
+            "budget": 28000000,
+            "budget_adj": 33930555,
+            "title": "Just My Luck (2006)",
+            "year": 2006,
+            "decade": 2000
+        },
+        {
+            "box_office": 13000000,
+            "box_office_adj": 17653696,
+            "budget": 15000000,
+            "budget_adj": 20369649,
+            "title": "Juwanna Mann",
+            "year": 2002,
+            "decade": 2000
+        },
+        {
+            "box_office": 76019048,
+            "box_office_adj": 104864220,
+            "budget": 48000000,
+            "budget_adj": 66213438,
+            "title": "Kate & Leopold",
+            "year": 2001,
+            "decade": 2000
+        },
+        {
+            "box_office": 59900000,
+            "box_office_adj": 84980081,
+            "budget": 29000000,
+            "budget_adj": 41142276,
+            "title": "Keeping the Faith",
+            "year": 2000,
+            "decade": 2000
+        },
+        {
+            "box_office": 10000000,
+            "box_office_adj": 13794466,
+            "budget": 1000000,
+            "budget_adj": 1379446,
+            "title": "Kissing Jessica Stein",
+            "year": 2001,
+            "decade": 2000
+        },
+        {
+            "box_office": 219100000,
+            "box_office_adj": 258206126,
+            "budget": 30000000,
+            "budget_adj": 35354558,
+            "title": "Knocked Up",
+            "year": 2007,
+            "decade": 2000
+        },
+        {
+            "box_office": 43300000,
+            "box_office_adj": 52471180,
+            "budget": 45000000,
+            "budget_adj": 54531250,
+            "title": "Last Holiday (2006)",
+            "year": 2006,
+            "decade": 2000
+        },
+        {
+            "box_office": 41299492,
+            "box_office_adj": 46862359,
+            "budget": 58000000,
+            "budget_adj": 65812354,
+            "title": "Leatherheads",
+            "year": 2008,
+            "decade": 2000
+        },
+        {
+            "box_office": 69307224,
+            "box_office_adj": 81677543,
+            "budget": 35000000,
+            "budget_adj": 41246985,
+            "title": "License to Wed",
+            "year": 2007,
+            "decade": 2000
+        },
+        {
+            "box_office": 16872671,
+            "box_office_adj": 22912693,
+            "budget": 40000000,
+            "budget_adj": 54319066,
+            "title": "Life or Something Like It",
+            "year": 2002,
+            "decade": 2000
+        },
+        {
+            "box_office": 22000000,
+            "box_office_adj": 28452091,
+            "budget": 35000000,
+            "budget_adj": 45264690,
+            "title": "Little Black Book",
+            "year": 2004,
+            "decade": 2000
+        },
+        {
+            "box_office": 58300000,
+            "box_office_adj": 82710162,
+            "budget": 85000000,
+            "budget_adj": 120589430,
+            "title": "Little Nicky",
+            "year": 2000,
+            "decade": 2000
+        },
+        {
+            "box_office": 18400000,
+            "box_office_adj": 26104065,
+            "budget": 20000000,
+            "budget_adj": 28373983,
+            "title": "Loser",
+            "year": 2000,
+            "decade": 2000
+        },
+        {
+            "box_office": 119700000,
+            "box_office_adj": 158927771,
+            "budget": 4000000,
+            "budget_adj": 5310869,
+            "title": "Lost in Translation",
+            "year": 2003,
+            "decade": 2000
+        },
+        {
+            "box_office": 40900000,
+            "box_office_adj": 46409057,
+            "budget": 62000000,
+            "budget_adj": 70351137,
+            "title": "The Love Guru",
+            "year": 2008,
+            "decade": 2000
+        },
+        {
+            "box_office": 106000000,
+            "box_office_adj": 120277751,
+            "budget": 40000000,
+            "budget_adj": 45387830,
+            "title": "Made of Honor",
+            "year": 2008,
+            "decade": 2000
+        },
+        {
+            "box_office": 154900000,
+            "box_office_adj": 210350583,
+            "budget": 55000000,
+            "budget_adj": 74688715,
+            "title": "Maid in Manhattan",
+            "year": 2002,
+            "decade": 2000
+        },
+        {
+            "box_office": 41200000,
+            "box_office_adj": 49926388,
+            "budget": 20000000,
+            "budget_adj": 24236111,
+            "title": "Man of the Year (2006)",
+            "year": 2006,
+            "decade": 2000
+        },
+        {
+            "box_office": 1700000,
+            "box_office_adj": 2257119,
+            "budget": 20000000,
+            "budget_adj": 26554347,
+            "title": "Marci X",
+            "year": 2003,
+            "decade": 2000
+        },
+        {
+            "box_office": 147800000,
+            "box_office_adj": 203882213,
+            "budget": 57000000,
+            "budget_adj": 78628458,
+            "title": "The Mexican",
+            "year": 2001,
+            "decade": 2000
+        },
+        {
+            "box_office": 154749918,
+            "box_office_adj": 193576062,
+            "budget": 44000000,
+            "budget_adj": 55039426,
+            "title": "Monster-in-Law",
+            "year": 2005,
+            "decade": 2000
+        },
+        {
+            "box_office": 179200000,
+            "box_office_adj": 247196837,
+            "budget": 52000000,
+            "budget_adj": 71731225,
+            "title": "Moulin Rouge!",
+            "year": 2001,
+            "decade": 2000
+        },
+        {
+            "box_office": 478200000,
+            "box_office_adj": 598178494,
+            "budget": 110000000,
+            "budget_adj": 137598566,
+            "title": "Mr. & Mrs. Smith (2005)",
+            "year": 2005,
+            "decade": 2000
+        },
+        {
+            "box_office": 171300000,
+            "box_office_adj": 232621400,
+            "budget": 50000000,
+            "budget_adj": 67898832,
+            "title": "Mr. Deeds",
+            "year": 2002,
+            "decade": 2000
+        },
+        {
+            "box_office": 145900000,
+            "box_office_adj": 171941003,
+            "budget": 40000000,
+            "budget_adj": 47139411,
+            "title": "Music and Lyrics",
+            "year": 2007,
+            "decade": 2000
+        },
+        {
+            "box_office": 58405313,
+            "box_office_adj": 73058975,
+            "budget": 30000000,
+            "budget_adj": 37526881,
+            "title": "Must Love Dogs",
+            "year": 2005,
+            "decade": 2000
+        },
+        {
+            "box_office": 368700000,
+            "box_office_adj": 500685992,
+            "budget": 5000000,
+            "budget_adj": 6789883,
+            "title": "My Big Fat Greek Wedding",
+            "year": 2002,
+            "decade": 2000
+        },
+        {
+            "box_office": 18191005,
+            "box_office_adj": 24152513,
+            "budget": 14000000,
+            "budget_adj": 18588043,
+            "title": "My Boss's Daughter",
+            "year": 2003,
+            "decade": 2000
+        },
+        {
+            "box_office": 20500000,
+            "box_office_adj": 23348018,
+            "budget": 17000000,
+            "budget_adj": 19361771,
+            "title": "My Life in Ruins",
+            "year": 2009,
+            "decade": 2000
+        },
+        {
+            "box_office": 61000000,
+            "box_office_adj": 73920138,
+            "budget": 30000000,
+            "budget_adj": 36354166,
+            "title": "My Super Ex-Girlfriend",
+            "year": 2006,
+            "decade": 2000
+        },
+        {
+            "box_office": 29010817,
+            "box_office_adj": 33041224,
+            "budget": 8000000,
+            "budget_adj": 9111421,
+            "title": "New in Town",
+            "year": 2009,
+            "decade": 2000
+        },
+        {
+            "box_office": 33506137,
+            "box_office_adj": 38019272,
+            "budget": 10000000,
+            "budget_adj": 11346957,
+            "title": "Nick & Norah's Infinite Playlist",
+            "year": 2008,
+            "decade": 2000
+        },
+        {
+            "box_office": 92601050,
+            "box_office_adj": 109128974,
+            "budget": 28000000,
+            "budget_adj": 32997588,
+            "title": "No Reservations",
+            "year": 2007,
+            "decade": 2000
+        },
+        {
+            "box_office": 159300000,
+            "box_office_adj": 187732706,
+            "budget": 60000000,
+            "budget_adj": 70709117,
+            "title": "Norbit",
+            "year": 2007,
+            "decade": 2000
+        },
+        {
+            "box_office": 166300000,
+            "box_office_adj": 235929674,
+            "budget": 84000000,
+            "budget_adj": 119170731,
+            "title": "Nutty Professor II: The Klumps",
+            "year": 2000,
+            "decade": 2000
+        },
+        {
+            "box_office": 4403019,
+            "box_office_adj": 6073729,
+            "budget": 16000000,
+            "budget_adj": 22071146,
+            "title": "On the Line (2001)",
+            "year": 2001,
+            "decade": 2000
+        },
+        {
+            "box_office": 507534,
+            "box_office_adj": 575896,
+            "budget": 2500000,
+            "budget_adj": 2836739,
+            "title": "The Other End of the Line",
+            "year": 2008,
+            "decade": 2000
+        },
+        {
+            "box_office": 21458111,
+            "box_office_adj": 24348427,
+            "budget": 10000000,
+            "budget_adj": 11346957,
+            "title": "Over Her Dead Body",
+            "year": 2008,
+            "decade": 2000
+        },
+        {
+            "box_office": 21156270,
+            "box_office_adj": 25637285,
+            "budget": 15000000,
+            "budget_adj": 18177083,
+            "title": "Penelope (2006)",
+            "year": 2006,
+            "decade": 2000
+        },
+        {
+            "box_office": 5812781,
+            "box_office_adj": 6850276,
+            "budget": 20000000,
+            "budget_adj": 23569705,
+            "title": "The Perfect Holiday",
+            "year": 2007,
+            "decade": 2000
+        },
+        {
+            "box_office": 19700000,
+            "box_office_adj": 24642652,
+            "budget": 10000000,
+            "budget_adj": 12508960,
+            "title": "The Perfect Man",
+            "year": 2005,
+            "decade": 2000
+        },
+        {
+            "box_office": 6414729,
+            "box_office_adj": 7305912,
+            "budget": 15000000,
+            "budget_adj": 17083916,
+            "title": "Post Grad",
+            "year": 2009,
+            "decade": 2000
+        },
+        {
+            "box_office": 67937494,
+            "box_office_adj": 84982743,
+            "budget": 22000000,
+            "budget_adj": 27519713,
+            "title": "Prime",
+            "year": 2005,
+            "decade": 2000
+        },
+        {
+            "box_office": 165300000,
+            "box_office_adj": 228022529,
+            "budget": 26000000,
+            "budget_adj": 35865612,
+            "title": "The Princess Diaries",
+            "year": 2001,
+            "decade": 2000
+        },
+        {
+            "box_office": 317400000,
+            "box_office_adj": 361495664,
+            "budget": 40000000,
+            "budget_adj": 45557109,
+            "title": "The Proposal",
+            "year": 2009,
+            "decade": 2000
+        },
+        {
+            "box_office": 49718611,
+            "box_office_adj": 64299929,
+            "budget": 50000000,
+            "budget_adj": 64663843,
+            "title": "Raising Helen",
+            "year": 2004,
+            "decade": 2000
+        },
+        {
+            "box_office": 36000000,
+            "box_office_adj": 51073170,
+            "budget": 24000000,
+            "budget_adj": 34048780,
+            "title": "Return to Me",
+            "year": 2000,
+            "decade": 2000
+        },
+        {
+            "box_office": 17500866,
+            "box_office_adj": 21891764,
+            "budget": 10000000,
+            "budget_adj": 12508960,
+            "title": "Roll Bounce",
+            "year": 2005,
+            "decade": 2000
+        },
+        {
+            "box_office": 88900000,
+            "box_office_adj": 111204659,
+            "budget": 70000000,
+            "budget_adj": 87562724,
+            "title": "Rumor Has It",
+            "year": 2005,
+            "decade": 2000
+        },
+        {
+            "box_office": 33500000,
+            "box_office_adj": 39479257,
+            "budget": 10000000,
+            "budget_adj": 11784852,
+            "title": "Run Fatboy Run",
+            "year": 2007,
+            "decade": 2000
+        },
+        {
+            "box_office": 172900000,
+            "box_office_adj": 234794163,
+            "budget": 65000000,
+            "budget_adj": 88268482,
+            "title": "The Santa Clause 2",
+            "year": 2002,
+            "decade": 2000
+        },
+        {
+            "box_office": 12300000,
+            "box_office_adj": 16967193,
+            "budget": 25000000,
+            "budget_adj": 34486166,
+            "title": "Say It Isn't So",
+            "year": 2001,
+            "decade": 2000
+        },
+        {
+            "box_office": 23947685,
+            "box_office_adj": 29019937,
+            "budget": 35000000,
+            "budget_adj": 42413194,
+            "title": "School for Scoundrels (2006)",
+            "year": 2006,
+            "decade": 2000
+        },
+        {
+            "box_office": 27900000,
+            "box_office_adj": 36082424,
+            "budget": 8000000,
+            "budget_adj": 10346214,
+            "title": "The Seat Filler",
+            "year": 2004,
+            "decade": 2000
+        },
+        {
+            "box_office": 77516304,
+            "box_office_adj": 106929605,
+            "budget": 28000000,
+            "budget_adj": 38624505,
+            "title": "Serendipity",
+            "year": 2001,
+            "decade": 2000
+        },
+        {
+            "box_office": 20146150,
+            "box_office_adj": 27358001,
+            "budget": 29000000,
+            "budget_adj": 39381322,
+            "title": "Serving Sara",
+            "year": 2002,
+            "decade": 2000
+        },
+        {
+            "box_office": 18755936,
+            "box_office_adj": 21282281,
+            "budget": 19000000,
+            "budget_adj": 21559219,
+            "title": "Sex Drive",
+            "year": 2008,
+            "decade": 2000
+        },
+        {
+            "box_office": 170100000,
+            "box_office_adj": 219986394,
+            "budget": 50000000,
+            "budget_adj": 64663843,
+            "title": "Shall We Dance? (2004)",
+            "year": 2004,
+            "decade": 2000
+        },
+        {
+            "box_office": 141100000,
+            "box_office_adj": 194639920,
+            "budget": 40000000,
+            "budget_adj": 55177865,
+            "title": "Shallow Hal",
+            "year": 2001,
+            "decade": 2000
+        },
+        {
+            "box_office": 826617,
+            "box_office_adj": 1097513,
+            "budget": 4000000,
+            "budget_adj": 5310869,
+            "title": "The Shape of Things",
+            "year": 2003,
+            "decade": 2000
+        },
+        {
+            "box_office": 57200000,
+            "box_office_adj": 69315277,
+            "budget": 20000000,
+            "budget_adj": 24236111,
+            "title": "She's the Man",
+            "year": 2006,
+            "decade": 2000
+        },
+        {
+            "box_office": 109700000,
+            "box_office_adj": 141872472,
+            "budget": 16000000,
+            "budget_adj": 20692429,
+            "title": "Sideways",
+            "year": 2004,
+            "decade": 2000
+        },
+        {
+            "box_office": 6413915,
+            "box_office_adj": 8709946,
+            "budget": 14000000,
+            "budget_adj": 19011673,
+            "title": "Slackers",
+            "year": 2002,
+            "decade": 2000
+        },
+        {
+            "box_office": 38689940,
+            "box_office_adj": 53370707,
+            "budget": 23000000,
+            "budget_adj": 31727272,
+            "title": "Someone like You",
+            "year": 2001,
+            "decade": 2000
+        },
+        {
+            "box_office": 266000000,
+            "box_office_adj": 353172826,
+            "budget": 80000000,
+            "budget_adj": 106217391,
+            "title": "Something's Gotta Give",
+            "year": 2003,
+            "decade": 2000
+        },
+        {
+            "box_office": 55000000,
+            "box_office_adj": 71130227,
+            "budget": 80000000,
+            "budget_adj": 103462149,
+            "title": "Spanglish",
+            "year": 2004,
+            "decade": 2000
+        },
+        {
+            "box_office": 65784503,
+            "box_office_adj": 87343228,
+            "budget": 55000000,
+            "budget_adj": 73024456,
+            "title": "Stuck on You",
+            "year": 2003,
+            "decade": 2000
+        },
+        {
+            "box_office": 19700000,
+            "box_office_adj": 27175098,
+            "budget": 34000000,
+            "budget_adj": 46901185,
+            "title": "Summer Catch",
+            "year": 2001,
+            "decade": 2000
+        },
+        {
+            "box_office": 15100000,
+            "box_office_adj": 19528480,
+            "budget": 45000000,
+            "budget_adj": 58197458,
+            "title": "Surviving Christmas",
+            "year": 2004,
+            "decade": 2000
+        },
+        {
+            "box_office": 180600000,
+            "box_office_adj": 245250583,
+            "budget": 30000000,
+            "budget_adj": 40739299,
+            "title": "Sweet Home Alabama",
+            "year": 2002,
+            "decade": 2000
+        },
+        {
+            "box_office": 68696770,
+            "box_office_adj": 93288609,
+            "budget": 43000000,
+            "budget_adj": 58392996,
+            "title": "The Sweetest Thing",
+            "year": 2002,
+            "decade": 2000
+        },
+        {
+            "box_office": 1000000,
+            "box_office_adj": 1357976,
+            "budget": 10000000,
+            "budget_adj": 13579766,
+            "title": "Swept Away (2002)",
+            "year": 2002,
+            "decade": 2000
+        },
+        {
+            "box_office": 13600000,
+            "box_office_adj": 16027399,
+            "budget": 16500000,
+            "budget_adj": 19445007,
+            "title": "Sydney White",
+            "year": 2007,
+            "decade": 2000
+        },
+        {
+            "box_office": 3200241,
+            "box_office_adj": 4345852,
+            "budget": 150000,
+            "budget_adj": 203696,
+            "title": "Tadpole",
+            "year": 2002,
+            "decade": 2000
+        },
+        {
+            "box_office": 10400000,
+            "box_office_adj": 14346245,
+            "budget": 90000000,
+            "budget_adj": 124150197,
+            "title": "Town & Country",
+            "year": 2001,
+            "decade": 2000
+        },
+        {
+            "box_office": 200000000,
+            "box_office_adj": 271595330,
+            "budget": 60000000,
+            "budget_adj": 81478599,
+            "title": "Two Weeks Notice",
+            "year": 2002,
+            "decade": 2000
+        },
+        {
+            "box_office": 205298907,
+            "box_office_adj": 233820619,
+            "budget": 38000000,
+            "budget_adj": 43279254,
+            "title": "The Ugly Truth",
+            "year": 2009,
+            "decade": 2000
+        },
+        {
+            "box_office": 58900000,
+            "box_office_adj": 78202554,
+            "budget": 18000000,
+            "budget_adj": 23898913,
+            "title": "Under the Tuscan Sun",
+            "year": 2003,
+            "decade": 2000
+        },
+        {
+            "box_office": 28237190,
+            "box_office_adj": 35321789,
+            "budget": 12000000,
+            "budget_adj": 15010752,
+            "title": "The Upside of Anger",
+            "year": 2005,
+            "decade": 2000
+        },
+        {
+            "box_office": 96409300,
+            "box_office_adj": 109395225,
+            "budget": 15000000,
+            "budget_adj": 17020436,
+            "title": "Vicky Cristina Barcelona",
+            "year": 2008,
+            "decade": 2000
+        },
+        {
+            "box_office": 19500000,
+            "box_office_adj": 25890489,
+            "budget": 30000000,
+            "budget_adj": 39831521,
+            "title": "View from the Top",
+            "year": 2003,
+            "decade": 2000
+        },
+        {
+            "box_office": 22000000,
+            "box_office_adj": 25926676,
+            "budget": 1500000,
+            "budget_adj": 1767727,
+            "title": "Waitress",
+            "year": 2007,
+            "decade": 2000
+        },
+        {
+            "box_office": 533299999,
+            "box_office_adj": 605133254,
+            "budget": 180000000,
+            "budget_adj": 204245239,
+            "title": "WALL-E",
+            "year": 2008,
+            "decade": 2000
+        },
+        {
+            "box_office": 285200000,
+            "box_office_adj": 356755555,
+            "budget": 40000000,
+            "budget_adj": 50035842,
+            "title": "Wedding Crashers",
+            "year": 2005,
+            "decade": 2000
+        },
+        {
+            "box_office": 47175038,
+            "box_office_adj": 59011069,
+            "budget": 15000000,
+            "budget_adj": 18763440,
+            "title": "The Wedding Date",
+            "year": 2005,
+            "decade": 2000
+        },
+        {
+            "box_office": 94728529,
+            "box_office_adj": 130672951,
+            "budget": 35000000,
+            "budget_adj": 48280632,
+            "title": "The Wedding Planner",
+            "year": 2001,
+            "decade": 2000
+        },
+        {
+            "box_office": 14600000,
+            "box_office_adj": 18881842,
+            "budget": 30000000,
+            "budget_adj": 38798305,
+            "title": "Welcome to Mooseport",
+            "year": 2004,
+            "decade": 2000
+        },
+        {
+            "box_office": 295206,
+            "box_office_adj": 407220,
+            "budget": 1800000,
+            "budget_adj": 2483003,
+            "title": "Wet Hot American Summer",
+            "year": 2001,
+            "decade": 2000
+        },
+        {
+            "box_office": 219300000,
+            "box_office_adj": 248838783,
+            "budget": 35000000,
+            "budget_adj": 39714352,
+            "title": "What Happens in Vegas",
+            "year": 2008,
+            "decade": 2000
+        },
+        {
+            "box_office": 374100000,
+            "box_office_adj": 530735365,
+            "budget": 70000000,
+            "budget_adj": 99308943,
+            "title": "What Women Want",
+            "year": 2000,
+            "decade": 2000
+        },
+        {
+            "box_office": 106000000,
+            "box_office_adj": 150382113,
+            "budget": 41300000,
+            "budget_adj": 58592276,
+            "title": "The Whole Nine Yards",
+            "year": 2000,
+            "decade": 2000
+        },
+        {
+            "box_office": 21300000,
+            "box_office_adj": 27546797,
+            "budget": 22000000,
+            "budget_adj": 28452091,
+            "title": "Win a Date with Tad Hamilton!",
+            "year": 2004,
+            "decade": 2000
+        },
+        {
+            "box_office": 10200000,
+            "box_office_adj": 14470731,
+            "budget": 8000000,
+            "budget_adj": 11349593,
+            "title": "Woman on Top",
+            "year": 2000,
+            "decade": 2000
+        },
+        {
+            "box_office": 454026,
+            "box_office_adj": 550191,
+            "budget": 1000000,
+            "budget_adj": 1211805,
+            "title": "Wristcutters: A Love Story",
+            "year": 2006,
+            "decade": 2000
+        },
+        {
+            "box_office": 223200000,
+            "box_office_adj": 253264096,
+            "budget": 70000000,
+            "budget_adj": 79428704,
+            "title": "Yes Man",
+            "year": 2008,
+            "decade": 2000
+        },
+        {
+            "box_office": 130400000,
+            "box_office_adj": 158019444,
+            "budget": 54000000,
+            "budget_adj": 65437500,
+            "title": "You, Me and Dupree",
+            "year": 2006,
+            "decade": 2000
+        },
+        {
+            "box_office": 42100000,
+            "box_office_adj": 47770692,
+            "budget": 24000000,
+            "budget_adj": 27232698,
+            "title": "Zack and Miri Make a Porno",
+            "year": 2008,
+            "decade": 2000
+        }
+    ],
+    "2010": [
+        {
+            "box_office": 49000000,
+            "box_office_adj": 50573299,
+            "budget": 12500000,
+            "budget_adj": 12901351,
+            "title": "About Last Night (2014)",
+            "year": 2014,
+            "decade": 2010
+        },
+        {
+            "box_office": 18637201,
+            "box_office_adj": 19541065,
+            "budget": 13000000,
+            "budget_adj": 13630472,
+            "title": "Admission",
+            "year": 2013,
+            "decade": 2010
+        },
+        {
+            "box_office": 25312387,
+            "box_office_adj": 26125121,
+            "budget": 18000000,
+            "budget_adj": 18577946,
+            "title": "And So It Goes",
+            "year": 2014,
+            "decade": 2010
+        },
+        {
+            "box_office": 2000000,
+            "box_office_adj": 2172521,
+            "budget": 4000000,
+            "budget_adj": 4345042,
+            "title": "The Art of Getting By",
+            "year": 2011,
+            "decade": 2010
+        },
+        {
+            "box_office": 45735397,
+            "box_office_adj": 49680557,
+            "budget": 40000000,
+            "budget_adj": 43450422,
+            "title": "Arthur (2011)",
+            "year": 2011,
+            "decade": 2010
+        },
+        {
+            "box_office": 82993,
+            "box_office_adj": 87017,
+            "budget": 2500000,
+            "budget_adj": 2621244,
+            "title": "At Middleton",
+            "year": 2013,
+            "decade": 2010
+        },
+        {
+            "box_office": 2140812,
+            "box_office_adj": 2244636,
+            "budget": 4900000,
+            "budget_adj": 5137639,
+            "title": "Austenland",
+            "year": 2013,
+            "decade": 2010
+        },
+        {
+            "box_office": 77500000,
+            "box_office_adj": 86809949,
+            "budget": 35000000,
+            "budget_adj": 39204493,
+            "title": "The Back-up Plan",
+            "year": 2010,
+            "decade": 2010
+        },
+        {
+            "box_office": 52300000,
+            "box_office_adj": 52300000,
+            "budget": 5000000,
+            "budget_adj": 5000000,
+            "title": "The Big Sick",
+            "year": 2017,
+            "decade": 2010
+        },
+        {
+            "box_office": 128000000,
+            "box_office_adj": 132109843,
+            "budget": 40000000,
+            "budget_adj": 41284326,
+            "title": "Blended",
+            "year": 2014,
+            "decade": 2010
+        },
+        {
+            "box_office": 321910,
+            "box_office_adj": 327677,
+            "budget": 3000000,
+            "budget_adj": 3053750,
+            "title": "The Bounce Back",
+            "year": 2016,
+            "decade": 2010
+        },
+        {
+            "box_office": 288400000,
+            "box_office_adj": 313277545,
+            "budget": 32500000,
+            "budget_adj": 35303468,
+            "title": "Bridesmaids (2011)",
+            "year": 2011,
+            "decade": 2010
+        },
+        {
+            "box_office": 212000000,
+            "box_office_adj": 215798333,
+            "budget": 35000000,
+            "budget_adj": 35627083,
+            "title": "Bridget Jones's Baby",
+            "year": 2016,
+            "decade": 2010
+        },
+        {
+            "box_office": 3094813,
+            "box_office_adj": 3292956,
+            "budget": 840000,
+            "budget_adj": 893780,
+            "title": "Celeste and Jesse Forever",
+            "year": 2012,
+            "decade": 2010
+        },
+        {
+            "box_office": 21234567,
+            "box_office_adj": 22264397,
+            "budget": 10000000,
+            "budget_adj": 10484978,
+            "title": "Crazy Kind of Love",
+            "year": 2013,
+            "decade": 2010
+        },
+        {
+            "box_office": 142900000,
+            "box_office_adj": 155226634,
+            "budget": 50000000,
+            "budget_adj": 54313028,
+            "title": "Crazy, Stupid, Love",
+            "year": 2011,
+            "decade": 2010
+        },
+        {
+            "box_office": 152300000,
+            "box_office_adj": 170595552,
+            "budget": 55000000,
+            "budget_adj": 61607060,
+            "title": "Date Night",
+            "year": 2010,
+            "decade": 2010
+        },
+        {
+            "box_office": 254536,
+            "box_office_adj": 259096,
+            "budget": 950000,
+            "budget_adj": 967020,
+            "title": "Dean",
+            "year": 2016,
+            "decade": 2010
+        },
+        {
+            "box_office": 343341,
+            "box_office_adj": 359992,
+            "budget": 1000000,
+            "budget_adj": 1048497,
+            "title": "Drinking Buddies",
+            "year": 2013,
+            "decade": 2010
+        },
+        {
+            "box_office": 204600000,
+            "box_office_adj": 229178266,
+            "budget": 60000000,
+            "budget_adj": 67207702,
+            "title": "Eat Pray Love",
+            "year": 2010,
+            "decade": 2010
+        },
+        {
+            "box_office": 25300000,
+            "box_office_adj": 26526995,
+            "budget": 8000000,
+            "budget_adj": 8387982,
+            "title": "Enough Said",
+            "year": 2013,
+            "decade": 2010
+        },
+        {
+            "box_office": 53900000,
+            "box_office_adj": 57350914,
+            "budget": 30000000,
+            "budget_adj": 31920731,
+            "title": "The Five-Year Engagement",
+            "year": 2012,
+            "decade": 2010
+        },
+        {
+            "box_office": 1755212,
+            "box_office_adj": 1966062,
+            "budget": 14000000,
+            "budget_adj": 15681797,
+            "title": "Flipped",
+            "year": 2010,
+            "decade": 2010
+        },
+        {
+            "box_office": 150400000,
+            "box_office_adj": 163373588,
+            "budget": 35000000,
+            "budget_adj": 38019119,
+            "title": "Friends with Benefits",
+            "year": 2011,
+            "decade": 2010
+        },
+        {
+            "box_office": 194000000,
+            "box_office_adj": 210734548,
+            "budget": 36000000,
+            "budget_adj": 39105380,
+            "title": "Gnomeo & Juliet",
+            "year": 2011,
+            "decade": 2010
+        },
+        {
+            "box_office": 42100000,
+            "box_office_adj": 47157404,
+            "budget": 32000000,
+            "budget_adj": 35844108,
+            "title": "Going the Distance (2010)",
+            "year": 2010,
+            "decade": 2010
+        },
+        {
+            "box_office": 35600000,
+            "box_office_adj": 37879268,
+            "budget": 14000000,
+            "budget_adj": 14896341,
+            "title": "Good Deeds",
+            "year": 2012,
+            "decade": 2010
+        },
+        {
+            "box_office": 83200000,
+            "box_office_adj": 90376878,
+            "budget": 36000000,
+            "budget_adj": 39105380,
+            "title": "Hall Pass",
+            "year": 2011,
+            "decade": 2010
+        },
+        {
+            "box_office": 14700000,
+            "box_office_adj": 15152784,
+            "budget": 1000000,
+            "budget_adj": 1030801,
+            "title": "Hello, My Name Is Doris",
+            "year": 2015,
+            "decade": 2010
+        },
+        {
+            "box_office": 114300000,
+            "box_office_adj": 121617987,
+            "budget": 30000000,
+            "budget_adj": 31920731,
+            "title": "Hope Springs (2012)",
+            "year": 2012,
+            "decade": 2010
+        },
+        {
+            "box_office": 61900000,
+            "box_office_adj": 61900000,
+            "budget": 10000000,
+            "budget_adj": 10000000,
+            "title": "How to Be a Latin Lover",
+            "year": 2017,
+            "decade": 2010
+        },
+        {
+            "box_office": 112300000,
+            "box_office_adj": 114312041,
+            "budget": 38000000,
+            "budget_adj": 38680833,
+            "title": "How to Be Single",
+            "year": 2016,
+            "decade": 2010
+        },
+        {
+            "box_office": 14700000,
+            "box_office_adj": 15171989,
+            "budget": 20000000,
+            "budget_adj": 20642163,
+            "title": "Inherent Vice",
+            "year": 2014,
+            "decade": 2010
+        },
+        {
+            "box_office": 619570,
+            "box_office_adj": 693997,
+            "budget": 5000000,
+            "budget_adj": 5600641,
+            "title": "Jack Goes Boating",
+            "year": 2010,
+            "decade": 2010
+        },
+        {
+            "box_office": 215000000,
+            "box_office_adj": 233546020,
+            "budget": 80000000,
+            "budget_adj": 86900844,
+            "title": "Just Go with It",
+            "year": 2011,
+            "decade": 2010
+        },
+        {
+            "box_office": 21570263,
+            "box_office_adj": 24161463,
+            "budget": 12000000,
+            "budget_adj": 13441540,
+            "title": "Just Wright",
+            "year": 2010,
+            "decade": 2010
+        },
+        {
+            "box_office": 98000000,
+            "box_office_adj": 109772581,
+            "budget": 75000000,
+            "budget_adj": 84009628,
+            "title": "Killers (2010)",
+            "year": 2010,
+            "decade": 2010
+        },
+        {
+            "box_office": 445600000,
+            "box_office_adj": 453583666,
+            "budget": 30000000,
+            "budget_adj": 30537500,
+            "title": "La La Land",
+            "year": 2016,
+            "decade": 2010
+        },
+        {
+            "box_office": 32600000,
+            "box_office_adj": 36516185,
+            "budget": 19000000,
+            "budget_adj": 21282439,
+            "title": "Leap Year (2010)",
+            "year": 2010,
+            "decade": 2010
+        },
+        {
+            "box_office": 80000000,
+            "box_office_adj": 89610270,
+            "budget": 30000000,
+            "budget_adj": 33603851,
+            "title": "Letters to Juliet",
+            "year": 2010,
+            "decade": 2010
+        },
+        {
+            "box_office": 254881,
+            "box_office_adj": 263064,
+            "budget": 2400000,
+            "budget_adj": 2477059,
+            "title": "Life After Beth",
+            "year": 2014,
+            "decade": 2010
+        },
+        {
+            "box_office": 105648706,
+            "box_office_adj": 118340114,
+            "budget": 38000000,
+            "budget_adj": 42564878,
+            "title": "Life as We Know It",
+            "year": 2010,
+            "decade": 2010
+        },
+        {
+            "box_office": 1296937,
+            "box_office_adj": 1408811,
+            "budget": 12500000,
+            "budget_adj": 13578257,
+            "title": "A Little Bit of Heaven (2011)",
+            "year": 2011,
+            "decade": 2010
+        },
+        {
+            "box_office": 102800000,
+            "box_office_adj": 115149197,
+            "budget": 30000000,
+            "budget_adj": 33603851,
+            "title": "Love & Other Drugs",
+            "year": 2010,
+            "decade": 2010
+        },
+        {
+            "box_office": 54161287,
+            "box_office_adj": 58833269,
+            "budget": 25000000,
+            "budget_adj": 27156514,
+            "title": "Madea's Big Happy Family",
+            "year": 2011,
+            "decade": 2010
+        },
+        {
+            "box_office": 51000000,
+            "box_office_adj": 52637515,
+            "budget": 16800000,
+            "budget_adj": 17339416,
+            "title": "Magic in the Moonlight",
+            "year": 2014,
+            "decade": 2010
+        },
+        {
+            "box_office": 9100000,
+            "box_office_adj": 9380295,
+            "budget": 8000000,
+            "budget_adj": 8246413,
+            "title": "Me and Earl and the Dying Girl",
+            "year": 2015,
+            "decade": 2010
+        },
+        {
+            "box_office": 151100000,
+            "box_office_adj": 164133970,
+            "budget": 17000000,
+            "budget_adj": 18466429,
+            "title": "Midnight in Paris",
+            "year": 2011,
+            "decade": 2010
+        },
+        {
+            "box_office": 77100000,
+            "box_office_adj": 78481375,
+            "budget": 33000000,
+            "budget_adj": 33591250,
+            "title": "Mike and Dave Need Wedding Dates",
+            "year": 2016,
+            "decade": 2010
+        },
+        {
+            "box_office": 183000000,
+            "box_office_adj": 194716463,
+            "budget": 85000000,
+            "budget_adj": 90442073,
+            "title": "Mirror Mirror",
+            "year": 2012,
+            "decade": 2010
+        },
+        {
+            "box_office": 39700000,
+            "box_office_adj": 43124544,
+            "budget": 20000000,
+            "budget_adj": 21725211,
+            "title": "Monte Carlo (2011)",
+            "year": 2011,
+            "decade": 2010
+        },
+        {
+            "box_office": 397903,
+            "box_office_adj": 410159,
+            "budget": 8000000,
+            "budget_adj": 8246413,
+            "title": "Mr. Right (2015)",
+            "year": 2015,
+            "decade": 2010
+        },
+        {
+            "box_office": 88900000,
+            "box_office_adj": 90492791,
+            "budget": 18000000,
+            "budget_adj": 18322500,
+            "title": "My Big Fat Greek Wedding 2",
+            "year": 2016,
+            "decade": 2010
+        },
+        {
+            "box_office": 142000000,
+            "box_office_adj": 154248999,
+            "budget": 56000000,
+            "budget_adj": 60830591,
+            "title": "New Year's Eve (2011)",
+            "year": 2011,
+            "decade": 2010
+        },
+        {
+            "box_office": 149200000,
+            "box_office_adj": 162070075,
+            "budget": 25000000,
+            "budget_adj": 27156514,
+            "title": "No Strings Attached",
+            "year": 2011,
+            "decade": 2010
+        },
+        {
+            "box_office": 3300000,
+            "box_office_adj": 3405956,
+            "budget": 1000000,
+            "budget_adj": 1032108,
+            "title": "Obvious Child",
+            "year": 2014,
+            "decade": 2010
+        },
+        {
+            "box_office": 366377,
+            "box_office_adj": 397980,
+            "budget": 7000000,
+            "budget_adj": 7603823,
+            "title": "The Oranges",
+            "year": 2011,
+            "decade": 2010
+        },
+        {
+            "box_office": 196700000,
+            "box_office_adj": 203015673,
+            "budget": 40000000,
+            "budget_adj": 41284326,
+            "title": "The Other Woman (2014)",
+            "year": 2014,
+            "decade": 2010
+        },
+        {
+            "box_office": 24086455,
+            "box_office_adj": 25628575,
+            "budget": 35000000,
+            "budget_adj": 37240853,
+            "title": "Playing for Keeps (2012)",
+            "year": 2012,
+            "decade": 2010
+        },
+        {
+            "box_office": 16399999,
+            "box_office_adj": 16693832,
+            "budget": 28000000,
+            "budget_adj": 28501666,
+            "title": "Pride and Prejudice and Zombies",
+            "year": 2016,
+            "decade": 2010
+        },
+        {
+            "box_office": 123820,
+            "box_office_adj": 138694,
+            "budget": 4500000,
+            "budget_adj": 5040577,
+            "title": "The Romantics",
+            "year": 2010,
+            "decade": 2010
+        },
+        {
+            "box_office": 294600000,
+            "box_office_adj": 329989821,
+            "budget": 95000000,
+            "budget_adj": 106412196,
+            "title": "Sex and the City 2",
+            "year": 2010,
+            "decade": 2010
+        },
+        {
+            "box_office": 49800000,
+            "box_office_adj": 55782393,
+            "budget": 20000000,
+            "budget_adj": 22402567,
+            "title": "She's Out of My League",
+            "year": 2010,
+            "decade": 2010
+        },
+        {
+            "box_office": 236400000,
+            "box_office_adj": 251535365,
+            "budget": 21000000,
+            "budget_adj": 22344512,
+            "title": "Silver Linings Playbook",
+            "year": 2012,
+            "decade": 2010
+        },
+        {
+            "box_office": 13567,
+            "box_office_adj": 14435,
+            "budget": 2000000,
+            "budget_adj": 2128048,
+            "title": "Slightly Single in L.A.",
+            "year": 2012,
+            "decade": 2010
+        },
+        {
+            "box_office": 6900000,
+            "box_office_adj": 7234635,
+            "budget": 2500000,
+            "budget_adj": 2621244,
+            "title": "The Spectacular Now",
+            "year": 2013,
+            "decade": 2010
+        },
+        {
+            "box_office": 49900000,
+            "box_office_adj": 55894406,
+            "budget": 19000000,
+            "budget_adj": 21282439,
+            "title": "The Switch (2010)",
+            "year": 2010,
+            "decade": 2010
+        },
+        {
+            "box_office": 7400000,
+            "box_office_adj": 8038328,
+            "budget": 19000000,
+            "budget_adj": 20638950,
+            "title": "Take Me Home Tonight",
+            "year": 2011,
+            "decade": 2010
+        },
+        {
+            "box_office": 100500000,
+            "box_office_adj": 103726869,
+            "budget": 20000000,
+            "budget_adj": 20642163,
+            "title": "Tammy",
+            "year": 2014,
+            "decade": 2010
+        },
+        {
+            "box_office": 346594,
+            "box_office_adj": 388229,
+            "budget": 20000000,
+            "budget_adj": 22402567,
+            "title": "The Tempest (2010)",
+            "year": 2010,
+            "decade": 2010
+        },
+        {
+            "box_office": 40500000,
+            "box_office_adj": 41800380,
+            "budget": 8000000,
+            "budget_adj": 8256865,
+            "title": "That Awkward Moment",
+            "year": 2014,
+            "decade": 2010
+        },
+        {
+            "box_office": 96100000,
+            "box_office_adj": 102252743,
+            "budget": 12000000,
+            "budget_adj": 12768292,
+            "title": "Think Like a Man",
+            "year": 2012,
+            "decade": 2010
+        },
+        {
+            "box_office": 70200000,
+            "box_office_adj": 72453992,
+            "budget": 24000000,
+            "budget_adj": 24770595,
+            "title": "Think Like a Man Too",
+            "year": 2014,
+            "decade": 2010
+        },
+        {
+            "box_office": 156500000,
+            "box_office_adj": 166519817,
+            "budget": 65000000,
+            "budget_adj": 69161585,
+            "title": "This Means War",
+            "year": 2012,
+            "decade": 2010
+        },
+        {
+            "box_office": 3900000,
+            "box_office_adj": 4089141,
+            "budget": 1500000,
+            "budget_adj": 1572746,
+            "title": "The To Do List",
+            "year": 2013,
+            "decade": 2010
+        },
+        {
+            "box_office": 278300000,
+            "box_office_adj": 311731728,
+            "budget": 100000000,
+            "budget_adj": 112012838,
+            "title": "The Tourist (2010)",
+            "year": 2010,
+            "decade": 2010
+        },
+        {
+            "box_office": 140800000,
+            "box_office_adj": 145136877,
+            "budget": 35000000,
+            "budget_adj": 36078059,
+            "title": "Trainwreck",
+            "year": 2015,
+            "decade": 2010
+        },
+        {
+            "box_office": 18612,
+            "box_office_adj": 19209,
+            "budget": 1600000,
+            "budget_adj": 1651373,
+            "title": "Two Night Stand",
+            "year": 2014,
+            "decade": 2010
+        },
+        {
+            "box_office": 216500000,
+            "box_office_adj": 242507794,
+            "budget": 52000000,
+            "budget_adj": 58246675,
+            "title": "Valentine's Day (2010)",
+            "year": 2010,
+            "decade": 2010
+        },
+        {
+            "box_office": 25517,
+            "box_office_adj": 28582,
+            "budget": 5000000,
+            "budget_adj": 5600641,
+            "title": "Waiting for Forever",
+            "year": 2010,
+            "decade": 2010
+        },
+        {
+            "box_office": 117000000,
+            "box_office_adj": 122674248,
+            "budget": 35000000,
+            "budget_adj": 36697424,
+            "title": "Warm Bodies",
+            "year": 2013,
+            "decade": 2010
+        },
+        {
+            "box_office": 84400000,
+            "box_office_adj": 89803658,
+            "budget": 40000000,
+            "budget_adj": 42560975,
+            "title": "What to Expect When You're Expecting",
+            "year": 2012,
+            "decade": 2010
+        },
+        {
+            "box_office": 30400000,
+            "box_office_adj": 33022321,
+            "budget": 20000000,
+            "budget_adj": 21725211,
+            "title": "What's Your Number?",
+            "year": 2011,
+            "decade": 2010
+        },
+        {
+            "box_office": 43000000,
+            "box_office_adj": 48165520,
+            "budget": 28000000,
+            "budget_adj": 31363594,
+            "title": "When in Rome (2010)",
+            "year": 2010,
+            "decade": 2010
+        },
+        {
+            "box_office": 118000000,
+            "box_office_adj": 120114166,
+            "budget": 52000000,
+            "budget_adj": 52931666,
+            "title": "Why Him?",
+            "year": 2016,
+            "decade": 2010
+        },
+        {
+            "box_office": 19651093,
+            "box_office_adj": 22011746,
+            "budget": 18000000,
+            "budget_adj": 20162310,
+            "title": "Youth in Revolt",
+            "year": 2010,
+            "decade": 2010
+        },
+        {
+            "box_office": 169800000,
+            "box_office_adj": 184447043,
+            "budget": 80000000,
+            "budget_adj": 86900844,
+            "title": "Zookeeper",
+            "year": 2011,
+            "decade": 2010
+        }
+    ]
+}

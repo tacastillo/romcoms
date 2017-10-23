@@ -1,0 +1,61 @@
+@import "palette.scss";
+
+$bounding-width: 850px;
+$svg-width: 65%;
+
+@mixin resize ($mobile-height, $mobile-width, $desktop-height, $desktop-width) {
+	@media (max-width: $bounding-width){
+		height: $mobile-height;
+		width: $mobile-width;
+	}
+	@media (min-width: $bounding-width + 1) {
+		height: $desktop-height;
+		width: $desktop-width;
+	}
+}
+
+html, body, #app {
+	height: 100%;
+}
+
+body {
+	font-family: serif;
+	margin: 0;
+	padding: 0;
+
+	#app {
+		height: 4000px;
+	}
+}
+
+.svg-wrapper {
+		@include resize(950px, 100%, 100vh, 100%);
+
+		background-color: $black;
+		display: flex;
+}
+
+.base-svg {
+
+	@include resize(450px, 100%, 100%, $svg-width);
+
+	position: absolute;
+	top: 950px;
+	left: 0;
+
+	transition: width 0.75s;
+}
+
+.content-wrapper {
+	width: 30%;
+	@media (min-width: $bounding-width + 1) {
+		float: right;
+	}
+}
+
+.card {
+	@include resize(375px, 100%, 100vh, 100% - $svg-width);
+	padding: 50px;
+}
+
+@import "./TitleCard.scss";
