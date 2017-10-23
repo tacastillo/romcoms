@@ -7,6 +7,7 @@ module.exports = {
       sass: {
         includePaths: [path.resolve('src/styles/**')]
       }
-    }
+    },
+    publicPath: 'https://tacastillo.github.io/romcoms/'
   }
 }
