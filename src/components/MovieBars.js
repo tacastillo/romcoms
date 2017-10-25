@@ -79,6 +79,10 @@ class MovieBars extends Component {
       let remainder = ((175 % 37) / 37).toFixed(2);
       let i = 0;
 
+      let vendorPrefix = "-webkit-transform" in document.body.style ? "-webkit-"
+        : "-moz-transform" in document.body.style ? "-moz-"
+        : "";
+
       for (i in d3.range(numBoxes)) {
         let box = this.svg.append("path")
           .classed("box", true)
@@ -101,9 +105,7 @@ class MovieBars extends Component {
           transform: `translate(${600},${this.bottom - (i+1)*110}) scale(1,${remainder})`
         })
         .styles({
-          '-webkit-transform-origin': 'bottom',
-          '-ms-transform-origin': 'bottom',
-          'transform-origin': 'bottom'
+          [vendorPrefix + 'transform-origin']: 'bottom'
         })
 
       this.labels.select('#box-decade')
