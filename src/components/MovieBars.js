@@ -18,6 +18,7 @@ class MovieBars extends Component {
 
   componentDidMount() {
     this.step = 0;
+    this.bottom = 700;
 
     this.boxPath = "M0,0 L80,0 L80,100 L0,100Z";
 
@@ -28,7 +29,7 @@ class MovieBars extends Component {
       .classed("box", true)
       .attr("fill", constants.colors.BLUE)
       .attr('d', this.boxPath)
-      .attr('transform', `translate(${600},${900})`)
+      .attr('transform', `translate(${600},${this.bottom})`)
   }
 
   drawFirstLabels = () => {
@@ -39,7 +40,7 @@ class MovieBars extends Component {
         .attr('opacity', 0);
 
       let x = 590,
-          y = 890
+          y = this.bottom - 10
 
       this.labels.append("text")
         .attrs({
@@ -85,7 +86,7 @@ class MovieBars extends Component {
             fill: constants.colors.BLUE,
             opacity: 0,
             d: this.boxPath,
-            transform: `translate(${600},${790 - i*110})`,
+            transform: `translate(${600},${this.bottom - ((+i)+1)*110})`,
           });
       }
 
@@ -97,7 +98,7 @@ class MovieBars extends Component {
           fill: constants.colors.BLUE,
           opacity: 0,
           d: this.boxPath,
-          transform: `translate(${600},${790 - i*110}) scale(1,${remainder})`,
+          transform: `translate(${600},${this.bottom - (i+1)*110}) scale(1,${remainder})`,
           'transform-origin': 'bottom'
         });
 
@@ -130,7 +131,7 @@ class MovieBars extends Component {
     return [
       <div className="card" key="1">
         <div className="card-content">
-          <Waypoint onEnter={this.drawFirstLabels} bottomOffset="50%"/>
+          <Waypoint onEnter={this.drawFirstLabels} bottomOffset="40%"/>
           <p>
             According to Wikipedia, the first romantic comedy was a silent film called "Courting Across the Court" and was released in theaters in 1911.
           </p>
@@ -141,7 +142,7 @@ class MovieBars extends Component {
       </div>,
       <div className="card" key="2">
         <div className="card-content">
-          <Waypoint onEnter={this.build2010Bar} bottomOffset="50%"/>
+          <Waypoint onEnter={this.build2010Bar} bottomOffset="40%"/>
           <p>
             However, between 2010 and 2017, 175 romantic comedies were shown in theaters.
           </p>
