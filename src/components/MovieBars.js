@@ -98,11 +98,13 @@ class MovieBars extends Component {
           fill: constants.colors.BLUE,
           opacity: 0,
           d: this.boxPath,
-          transform: `translate(${600},${this.bottom - (i+1)*110}) scale(1,${remainder})`,
-          'transform-origin': 'bottom',
-          '-webkit-transform': `translate(${600},${this.bottom - (i+1)*110}) scale(1,${remainder})`,
-          '-ms-transform': `translate(${600},${this.bottom - (i+1)*110}) scale(1,${remainder})`
-        });
+          transform: `translate(${600},${this.bottom - (i+1)*110}) scale(1,${remainder})`
+        })
+        .styles({
+          '-webkit-transform-origin': 'bottom',
+          '-ms-transform-origin': 'bottom',
+          'transform-origin': 'bottom'
+        })
 
       this.labels.select('#box-decade')
         .transition().duration(1000)
