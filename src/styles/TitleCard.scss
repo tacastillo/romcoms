@@ -1,52 +1,70 @@
-.title {
-	margin: auto;
-	margin-top: 40%;
-	color: $white;
-	text-align: center;
-	transition: margin-top 1s ease-in;
 
-	h1 {
-		margin: 0;
-		font-size: 1.75rem;
-		transition: font-size 1s ease-in;
-	}
+.title-wrapper {
+	@include resize(800px, 100%, 100vh, 100%);
 
-	.title-description {
-		margin: 20% auto 0 auto;
-		width: 40%;
-		opacity: 0;
-		transition: opacity 1s ease-in;
+	background-color: $black;
+	display: flex;
 
-		h3 {
-			font-weight: normal;
+	.title {
+		margin: auto;
+		margin-top: 25%;
+		color: $white;
+		text-align: center;
+		transition: margin-top 1s ease-in;
+
+		h1 {
+			margin: 0;
+			font-size: 1.75rem;
+			transition: font-size 1s ease-in;
 		}
-	}
-
-	&:not(.step-two) {
-		@media (min-width: $bounding-width + 1){
-			h1 {
-				font-size: 4.5rem;
-			}
-		}
-
-	}
-	&.step-two {
-		margin-top: 50px;
-		.title-description {
-			opacity: 1;
-		}
-	}
-
-	@media (max-width: $bounding-width){
-		margin-top: 70%;
 
 		.title-description {
-			margin-top: 140px;
-			width: 90%;
+			margin: 15% auto 0 auto;
+			width: 60%;
+			opacity: 0;
+			transition: opacity 1s ease-in;
 
 			h3 {
-				font-size: 1rem;
+				font-size: 2rem;
+				font-weight: normal;
+			}
+
+			//Landscape phone
+			@media (max-width: 750px), (max-height: 450px) {
+				h3 {
+					font-size: 1rem;
+				}
+			}
+		}
+
+		&:not(.step-two) {
+			@media (min-width: $bounding-width + 1){
+				h1 {
+					font-size: 4.5rem;
+				}
+			}
+
+		}
+		&.step-two {
+			margin-top: 50px;
+			.title-description {
+				opacity: 1;
+			}
+		}
+
+		//mobile
+		@media (max-width: $bounding-width){
+			margin-top: 70%;
+
+			.title-description {
+				margin-top: 140px;
+				width: 90%;
+
+				h3 {
+					font-size: 1rem;
+				}
 			}
 		}
 	}
+
 }

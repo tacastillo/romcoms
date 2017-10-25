@@ -1,0 +1,10 @@
+/coverage
+/dist
+/node_modules
+
+package.json
+package-lock.json
+.travis.yml
+.ipynb_checkpoints
+
+npm-debug.log*

@@ -6,6 +6,7 @@ import * as d3 from 'd3'
 import * as constants from "./constants"
 
 import TitleCard from './components/TitleCard.js'
+import MovieBars from './components/MovieBars.js'
 
 class App extends Component {
 
@@ -16,13 +17,13 @@ class App extends Component {
   render() {
     return (
       <section>
+        <TitleCard></TitleCard>
         <div className="svg-wrapper">
-          <TitleCard></TitleCard>
-          <svg id="base" viewBox="0 0 1200 900" preserveAspectRatio="xMinYMin" className="base-svg">
-          </svg>
+          <svg id="base" viewBox="0 0 1200 900" preserveAspectRatio="xMinYMin" className="base-svg"></svg>
         </div>
         <div className="content-wrapper">
-          Some Text
+          <MovieBars></MovieBars>
+          <div className="fade"></div>
         </div>
       </section>
     );

@@ -1,7 +1,9 @@
+@import url('https://fonts.googleapis.com/css?family=Questrial');
 @import "palette.scss";
 
-$bounding-width: 850px;
+$bounding-width: 650px;
 $svg-width: 65%;
+$mobile-svg-height: 350px;
 
 @mixin resize ($mobile-height, $mobile-width, $desktop-height, $desktop-width) {
 	@media (max-width: $bounding-width){
@@ -19,43 +21,74 @@ html, body, #app {
 }
 
 body {
-	font-family: serif;
+	font-family: 'Questrial', sans-serif;
+	background-color: $white;
 	margin: 0;
 	padding: 0;
 
-	#app {
-		height: 4000px;
+	p {
+		font-size: 1.25rem;
+		line-height: 1.75rem;
 	}
 }
 
 .svg-wrapper {
-		@include resize(950px, 100%, 100vh, 100%);
+	@include resize($mobile-svg-height, 100%, 100%, $svg-width);
+	background-color: $white;
+	position: absolute;
 
-		background-color: $black;
-		display: flex;
+	.base-svg {
+		@include resize($mobile-svg-height, 100%, 100%, 100%);
+	}
 }
 
-.base-svg {
-
-	@include resize(450px, 100%, 100%, $svg-width);
-
-	position: absolute;
-	top: 950px;
-	left: 0;
-
-	transition: width 0.75s;
+.fixed {
+	position: fixed;
+	top: 0;
 }
 
 .content-wrapper {
-	width: 30%;
+	@include resize(100%, 100%, 100%, 100% - $svg-width);
+
 	@media (min-width: $bounding-width + 1) {
 		float: right;
+	}
+
+	@media (max-width: $bounding-width) {
+		margin-top: 450px;
+	}
+
+	.fade {
+		content:'';
+		height: 60px;
+		width: 100%;
+		background: linear-gradient(to bottom, $white, rgba(251, 251, 251, 0) 100%);
+
+		@media(max-width: $bounding-width){
+			&.fixed {
+				top: $mobile-svg-height;
+			}
+		}
 	}
 }
 
 .card {
-	@include resize(375px, 100%, 100vh, 100% - $svg-width);
-	padding: 50px;
+	@include resize(375px, 100%, 100vh, 100%);
+	display: flex;
+
+	.card-content {
+		margin: auto;
+		padding: 40px;
+		text-align: center;
+
+
+	}
+}
+
+svg {
+	text {
+		font-size: 2rem;
+	}
 }
 
 @import "./TitleCard.scss";
