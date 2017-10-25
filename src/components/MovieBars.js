@@ -99,7 +99,9 @@ class MovieBars extends Component {
           opacity: 0,
           d: this.boxPath,
           transform: `translate(${600},${this.bottom - (i+1)*110}) scale(1,${remainder})`,
-          'transform-origin': 'bottom'
+          'transform-origin': 'bottom',
+          '-webkit-transform': `translate(${600},${this.bottom - (i+1)*110}) scale(1,${remainder})`,
+          '-ms-transform': `translate(${600},${this.bottom - (i+1)*110}) scale(1,${remainder})`
         });
 
       this.labels.select('#box-decade')
