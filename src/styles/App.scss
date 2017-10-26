@@ -73,7 +73,7 @@ body {
 }
 
 .card {
-	@include resize(375px, 100%, 100vh, 100%);
+	@include resize(400px, 100%, 75vh, 100%);
 	display: flex;
 
 	.card-content {

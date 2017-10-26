@@ -19,7 +19,7 @@ class App extends Component {
       <section>
         <TitleCard></TitleCard>
         <div className="svg-wrapper">
-          <svg id="base" viewBox="0 0 1200 900" preserveAspectRatio="xMinYMin" className="base-svg"></svg>
+          <svg id="base" viewBox="0 0 1200 1200" preserveAspectRatio="xMidYMid" className="base-svg"></svg>
         </div>
         <div className="content-wrapper">
           <MovieBars></MovieBars>
