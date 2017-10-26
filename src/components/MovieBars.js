@@ -1,5 +1,3 @@
-import '../styles/MovieBars.scss'
-
 import React, {Component} from 'react'
 import Waypoint from 'react-waypoint'
 import * as d3 from 'd3'
@@ -23,26 +21,6 @@ class MovieBars extends Component {
     this.bottom = 1000;
     this.boxPath = "M0,0 L80,0 L80,100 L0,100Z";
 
-    this.xScale = d3.scaleBand()
-      .domain(Object.keys(data))
-      .rangeRound([20, 1180])
-
-    this.xCenter = this.xScale(1960);
-
-    this.svg = d3.select("#base")
-      .classed("title-box", true);
-
-    this.appendBox({
-      d: this.boxPath,
-      fill: constants.colors.BLUE,
-      transform: `translate(${this.xCenter},${this.bottom})`
-    })
-
-    let animations = [
-        {function: this.drawFirstLabels, delay: 0},
-        {function: this.draw2010Bar, delay: 1000},
-        {function: this.drawBars, delay: 1200}
-    ];
 
     let unit = data[1910].length;
     this.boxData = Object.keys(data).map((i) => {
@@ -54,6 +32,38 @@ class MovieBars extends Component {
         numBoxes: parseInt(len / unit)
       }
     });
+
+    let maxNumBoxes = d3.max(this.boxData, (d) => +d.numBoxes+1);
+
+    this.xScale = d3.scaleBand()
+      .domain(Object.keys(data))
+      .rangeRound([20, 1180])
+
+    this.xCenter = this.xScale(1960);
+
+    let yRange = d3.range(maxNumBoxes).map((i) => {
+      console.log(this.bottom - +i * 110);
+      return this.bottom - +i * 110;
+    })
+    console.log(yRange);
+
+    this.yScale = d3.scaleOrdinal()
+      .domain(d3.range(maxNumBoxes))
+      .range(yRange);
+
+    this.svg = d3.select("#base")
+      .classed("title-box", true);
+
+    this.appendBox({
+      d: this.updatePath(this.boxPath, this.xCenter, this.yScale(0)),
+      fill: constants.colors.BLUE
+    })
+
+    let animations = [
+        {function: this.drawFirstLabels, delay: 0},
+        {function: this.draw2010Bar, delay: 1000},
+        {function: this.drawBars, delay: 1500}
+    ];
 
     let waypointTops = this.node.selectAll(".waypoint").nodes()
       .map((d) => d.getBoundingClientRect().top < document.body.offsetHeight/2);
@@ -117,14 +127,14 @@ class MovieBars extends Component {
     let {numBoxes, remainder, length, decade} = this.boxData[this.boxData.length-1];
 
     let numFormat = d3.format('d');
-    let i = 0;
+    let i = 1;
 
     for (i in d3.range(numBoxes)) {
+      console.log(+i, this.yScale(+i))
       this.appendBox({
         fill: constants.colors.BLUE,
         opacity: 0,
-        d: this.boxPath,
-        transform: `translate(${this.xCenter},${this.bottom - ((+i)+1)*110})`,
+        d: this.updatePath(this.boxPath, this.xCenter, this.yScale(+i)),
       });
     }
 
@@ -133,18 +143,19 @@ class MovieBars extends Component {
     this.appendBox({
       fill: constants.colors.BLUE,
       opacity: 0,
-      d: this.boxPath,
-      transform: `translate(${this.xCenter},${this.bottom-(i+1)*110+(1-remainder)*100}) scale(1,${remainder})`,
+      d: this.updatePath(this.boxPath, this.xCenter, this.yScale(+i) + (1-remainder) * 100, remainder)
     });
+
+
 
     this.labels.select('#box-decade')
       .transition().duration(1000)
       .tween("text", () => tweenNumberLabels(decade, '#box-decade'))
 
     this.labels.select("#box-quantity")
-      .transition().duration(i * 200)
+      .transition().duration(900)
       .ease(d3.easeLinear)
-      .attr('transform', `translate(0, -${(i+(remainder/1))*110})`)
+      .attr('transform', `translate(0, -${ ( +i + (1 - remainder))*98})`)
       .tween("text", () => tweenNumberLabels(length, '#box-quantity'));
 
     function tweenNumberLabels(endNumber, id) {
@@ -167,17 +178,20 @@ class MovieBars extends Component {
     }
     this.step++;
 
-    let allSVGElements = this.svg.selectAll("*")
-      .filter(function(d, i) { return this.tagName != "g"});
+    let that = this;
+    let boxes = d3.selectAll(".box");
 
     let xEnd = this.xScale(2010) - this.xCenter;
+    let textTransform = `${this.labels.attr('transform') || ""} translate(${xEnd},0)`;
 
-    allSVGElements.each(function(data, i) {
-      let selection = d3.select(this);
-      let transform = `${selection.attr('transform') || ""} translate(${xEnd},0)`;
-      selection.transition().duration(1000)
-        .attr('transform', transform);
-    });
+    this.labels.transition().duration(1000)
+      .attr('transform', textTransform);
+
+    d3.selectAll(".box").transition().duration(1000)
+      .attr('d', function(box) {
+        let d = d3.select(this).attr('d');
+        return that.updatePath(d, xEnd, 0);
+      });
 
     setTimeout(() => {
       for (let j in d3.range(this.boxData.length - 1)) {
@@ -210,30 +224,31 @@ class MovieBars extends Component {
           this.appendBox({
               fill: constants.colors.BLUE,
               opacity: 0,
-              d: this.boxPath,
-              transform: `translate(${x},${this.bottom - i*110})`,
+              d: this.updatePath(this.boxPath, x, this.bottom - i*110)
             });
         }
 
-        if (bar.numBoxes > 1) {
+        if (i > 0) {
           i++;
         }
 
-        this.appendBox({
-          fill: constants.colors.BLUE,
-          opacity: 0,
-          d: this.boxPath,
-          transform: `translate(${x},${this.bottom - (+(i))*110 + (1-bar.remainder)*100}) scale(1,${bar.remainder})`,
-        });
+        if (bar.remainder > 0) {
+          let box = this.appendBox({
+            fill: constants.colors.BLUE,
+            opacity: 0,
+            d: this.updatePath(this.boxPath, x, this.yScale(+i) + (1-bar.remainder) * 100, bar.remainder),
+          });
+        }
       }
 
       let xRange = this.xScale.domain().map((d) => this.xScale(d));
-      let that = this;
       d3.selectAll('.box').transition()
         .delay(function(d,i) {
-          let stringTransform = d3.select(this).attr('transform');
-          let x = +stringTransform.substring(stringTransform.indexOf("(")+1, stringTransform.indexOf(")")).split(",")[0];
-          return 2000 - ((xRange.indexOf(x)) * 200);
+          let path = d3.select(this).attr('d');
+          let xPath = +path.split(",")[0].slice(1);
+          let xBotPath = +that.boxPath.split(",")[0].slice(1);
+          let xDelta = xPath - xBotPath
+          return 2000 - ((xRange.indexOf(xDelta)) * 200);
         })
         .duration(400)
         .attr('opacity', 1)
@@ -249,9 +264,24 @@ class MovieBars extends Component {
   }
 
   appendBox = (attrs) => {
-    this.svg.append("path")
+    return this.svg.append("path")
       .classed("box", true)
       .attrs(attrs);
+  }
+
+  updatePath = (path, xTrans, yTrans, yScale) => {
+    yScale = yScale ? yScale : 1;
+    let newPath = path.split(" ").map((coord) => {
+      let presplit = coord.split(",");
+      let split = {
+        pre: coord[0],
+        x: +presplit[0].slice(1) + xTrans,
+        y: +(presplit[1].split("Z")[0] * yScale) + yTrans,
+        post: coord.indexOf("Z") >=0
+      };
+      return split.pre + split.x + "," + split.y + (split.post ? "Z" : "");
+    });
+    return newPath.join(" ");
   }
 
   render() {
