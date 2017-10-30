@@ -7,22 +7,36 @@ import * as constants from "./constants"
 
 import TitleCard from './components/TitleCard.js'
 import MovieBars from './components/MovieBars.js'
+import ActorBars from './components/ActorBars.js'
+import RatioLine from './components/RatioLine.js'
 
 class App extends Component {
 
   constructor(props) {
     super(props);
+
+    this.state = {
+      step: constants.steps.BOX
+    }
+  }
+
+  incrementStep = () => {
+    this.setState((state) => ({step : state.step + 1}));
   }
 
   render() {
     return (
       <section>
-        <TitleCard></TitleCard>
+        <TitleCard/>
         <div className="svg-wrapper">
           <svg id="base" viewBox="0 0 1200 1200" preserveAspectRatio="xMidYMid" className="base-svg"></svg>
         </div>
         <div className="content-wrapper">
-          <MovieBars></MovieBars>
+          <MovieBars step={this.state.step} incrementStep={this.incrementStep}/>
+          <ActorBars step={this.state.step} incrementStep={this.incrementStep}/>
+          <RatioLine step={this.state.step} incrementStep={this.incrementStep}/>
+          <div style={{height: '100vh'}}>
+          </div>
           <div className="fade"></div>
         </div>
       </section>
