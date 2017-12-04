@@ -11,7 +11,6 @@ class RatioLine extends Component {
 
 	componentDidMount() {
 		this.svg = d3.select('#base');
-		this.bottom = 1000;
 
 		let max = d3.max(Object.keys(data), (d) => +data[d].length);
 		this.decades = Object.keys(data);
@@ -22,7 +21,7 @@ class RatioLine extends Component {
 
 		this.yScale = d3.scaleLinear()
 			.domain([0, +max])
-			.rangeRound([this.bottom, 120]);
+			.rangeRound([constants.bottom, 120]);
 
 		this.line = d3.line()
 			.x((d) => this.xScale(d))
@@ -85,14 +84,25 @@ class RatioLine extends Component {
 		bars.each(function(d, i) {
 			let bar = d3.select(this);
 			let text = d3.select(`.text-${that.decades[i]} .quantity`);
+			let numFormat = d3.format('.1f');
 
 			text.transition().duration(duration * 0.3)
 				.attr('fill-opacity', 0);
 
+			d3.select(text.node().parentNode).raise();
+			text.attrs({
+				y: +that.yScale(data[d].length) + 10,
+				x: +text.attr('x') - (data[d].length < 2 ? 23 : 21),
+				text: data[d].length,
+				'text-anchor': 'start',
+				'font-size': '1.5rem',
+			})
+			.text(numFormat(data[d].length));
+
 			if (i === bars.size() - 1) {
 				bar.transition().duration(duration)
 					.attrs({
-						transform: 'translate(50, 0)',
+						transform: 'translate(50, 0) scale(1, 0)',
 						opacity: 0
 					})
 					.on('end', () => {
@@ -124,23 +134,12 @@ class RatioLine extends Component {
 							.attrs({
 								'stroke-width': '20px'
 							});
+
+						bar
+							.classed('bar', false)
+							.classed('line', true)
 					});
 			}
-			let numFormat = d3.format('.1f');
-
-			d3.select(text.node().parentNode).raise();
-			text.attrs({
-				y: +that.yScale(data[d].length) + 10,
-				x: text.attr('x') - 2,
-				'font-size': '1.5rem',
-			});
-			text.transition().duration(duration)
-				.tween("text", () => {
-					let i = d3.interpolate(+text.text(), data[d].length);
-					return function(t) {
-						text.text(numFormat(i(t)));
-					};
-				});
 		});
 	}
 

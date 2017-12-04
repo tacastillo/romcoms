@@ -10,7 +10,6 @@ const data = require('../data/decades.json');
 class MovieBars extends Component {
 
   componentDidMount() {
-    this.bottom = 1000;
     this.boxPath = "M0,0 L80,0 L80,100 L0,100Z";
 
     let unit = data[1910].length;
@@ -28,12 +27,12 @@ class MovieBars extends Component {
 
     this.xScale = d3.scaleBand()
       .domain(Object.keys(data))
-      .rangeRound([20, 1180]);
+      .rangeRound(constants.xRange);
 
     this.xCenter = this.xScale(1960);
 
     let yRange = d3.range(maxNumBoxes).map((i) => {
-      return this.bottom - +i * 110;
+      return constants.bottom - +i * 110;
     });
 
     this.yScale = d3.scaleOrdinal()
@@ -43,7 +42,7 @@ class MovieBars extends Component {
     this.svg = d3.select("#base");
 
     let box = this.appendBox({
-      d: this.updatePath(this.boxPath, this.xCenter, this.yScale(0)),
+      d: this.updatePath(this.boxPath, this.xCenter, this.yScale(3) - 10),
       fill: constants.colors.BLUE.PRIMARY
     }, 2010);
 
@@ -75,7 +74,7 @@ class MovieBars extends Component {
     this.props.incrementStep();
 
     let x = this.xCenter,
-        y = this.bottom - 10;
+        y = this.yScale(3)- 20;
 
     this.labels = this.svg.append("g")
       .classed('text-2010', true);
@@ -117,13 +116,13 @@ class MovieBars extends Component {
     let {numBoxes, remainder, length, decade} = this.boxData[this.boxData.length-1];
 
     let numFormat = d3.format('d');
-    let i = 1;
+    let i;
 
-    for (i in d3.range(numBoxes)) {
+    for (i in d3.range(1, numBoxes)) {
       this.appendBox({
         fill: constants.colors.BLUE.PRIMARY,
         opacity: 0,
-        d: this.updatePath(this.boxPath, this.xCenter, this.yScale(+i)),
+        d: this.updatePath(this.boxPath, this.xCenter,  this.yScale(+i) - this.yScale(5)),
       }, 2010);
     }
 
@@ -132,17 +131,19 @@ class MovieBars extends Component {
     this.appendBox({
       fill: constants.colors.BLUE.PRIMARY,
       opacity: 0,
-      d: this.updatePath(this.boxPath, this.xCenter, this.yScale(+i) + (1-remainder) * 100, remainder)
+      d: this.updatePath(this.boxPath, this.xCenter, this.yScale(+i) + (1-remainder) * 100  - this.yScale(5), remainder)
     }, 2010);
 
     this.labels.select('.decade')
       .transition().duration(1000)
-      .tween("text", () => tweenNumberLabels(decade, '.decade'))
+      .tween("text", () => tweenNumberLabels(decade, '.decade'));
 
-    this.labels.select(".quantity")
-      .transition().duration(1100)
-      .ease(d3.easeLinear)
-      .attr('y', this.labels.select(".quantity").attr('y') - ( +i + (1 - remainder))*98)
+    let quantityText = this.labels.select(".quantity");
+
+    quantityText
+      .transition().duration(1500)
+      .ease(d3.easeCubicOut)
+      .attr('y', quantityText.attr('y') - ( +i + 1 + (1 - remainder))*98)
       .tween("text", () => tweenNumberLabels(length, '.quantity'));
 
     function tweenNumberLabels(endNumber, className) {
@@ -169,14 +170,20 @@ class MovieBars extends Component {
     let boxes = d3.selectAll(".box");
 
     let xEnd = this.xScale(2010) - this.xCenter;
+    let yTrans = this.yScale(6);
 
-    d3.selectAll('text').transition().duration(1000)
-      .attr('x', +d3.select("text").attr('x') + xEnd);
+    let allText = d3.selectAll('text');
+    allText.transition().duration(1000)
+      .attr('x', +d3.select("text").attr('x') + xEnd)
+      .attr('y', function(d) {
+        let y = d3.select(this).attr('y');
+        return +y + yTrans;
+      });
 
     d3.selectAll(".box").transition().duration(1000)
       .attr('d', function(box) {
         let d = d3.select(this).attr('d');
-        return that.updatePath(d, xEnd, 0);
+        return that.updatePath(d, xEnd, that.yScale(6));
       });
 
     setTimeout(() => {
@@ -191,7 +198,7 @@ class MovieBars extends Component {
         newLabels.append("text")
           .attrs({
             x: x + 40,
-            y: this.bottom - 15 - (((bar.numBoxes - 1)+ (bar.remainder / 1)) * 110),
+            y: constants.bottom - 15 - (((bar.numBoxes - 1)+ (bar.remainder / 1)) * 110),
             opacity: 0,
             'text-anchor': 'middle'
           })
@@ -201,7 +208,7 @@ class MovieBars extends Component {
         newLabels.append("text")
           .attrs({
             x: x + 40,
-            y: this.bottom + 135,
+            y: constants.bottom + 135,
             opacity: 0,
             'text-anchor': 'middle'
           })
@@ -212,7 +219,7 @@ class MovieBars extends Component {
           this.appendBox({
               fill: constants.colors.BLUE.PRIMARY,
               opacity: 0,
-              d: this.updatePath(this.boxPath, x, this.bottom - i * 110)
+              d: this.updatePath(this.boxPath, x, constants.bottom - i * 110)
             }, bar.decade);
         }
 

@@ -26,7 +26,13 @@ export const steps = {
 	BAR: 1,
 	BARS_DECADE: 2,
 	BARS_ACTOR: 3,
-	LINE_RATIO: 4
+	LINE_RATIO: 4,
+	SCATTER_SCALE: 5,
+	SCATTER_PLOT: 6,
 };
 
 export const waypointTriggerHeight = window.matchMedia('(max-width: 650px)').matches ? '25%' : '50%';
+
+export const bottom = 1000;
+export const xRange = [20,1180]
+export const yRange = [bottom, 120];

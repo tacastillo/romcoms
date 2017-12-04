@@ -8,6 +8,6 @@ module.exports = {
         includePaths: [path.resolve('src/styles/**')]
       }
     }
-    ,publicPath: 'https://tacastillo.github.io/romcoms/'
+    // ,publicPath: 'https://tacastillo.github.io/romcoms/'
   }
 }

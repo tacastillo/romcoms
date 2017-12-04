@@ -89,6 +89,9 @@ svg {
 	text {
 		font-size: 2rem;
 	}
+	.tick text {
+		font-size: 1rem;
+	}
 }
 
 @import "./TitleCard.scss";

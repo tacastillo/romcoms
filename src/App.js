@@ -9,6 +9,7 @@ import TitleCard from './components/TitleCard.js'
 import MovieBars from './components/MovieBars.js'
 import ActorBars from './components/ActorBars.js'
 import RatioLine from './components/RatioLine.js'
+import Scatter from './components/Scatter.js'
 
 class App extends Component {
 
@@ -35,6 +36,7 @@ class App extends Component {
           <MovieBars step={this.state.step} incrementStep={this.incrementStep}/>
           <ActorBars step={this.state.step} incrementStep={this.incrementStep}/>
           <RatioLine step={this.state.step} incrementStep={this.incrementStep}/>
+          <Scatter step={this.state.step} incrementStep={this.incrementStep}/>
           <div style={{height: '100vh'}}>
           </div>
           <div className="fade"></div>

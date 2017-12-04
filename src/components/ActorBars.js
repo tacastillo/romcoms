@@ -11,13 +11,12 @@ class ActorBars extends Component {
 
 	componentDidMount() {
 		this.svg = d3.select('#base');
-		this.bottom = 1000;
 
 		let max = d3.max(Object.keys(data), (d) => +data[d].length);
 
 		this.yScale = d3.scaleLinear()
 			.domain([0, +max])
-			.rangeRound([1000, 120]);
+			.rangeRound(constants.yRange);
 
 		let animations = [
 			{function: this.mergeBoxes, delay: 5500},
@@ -44,7 +43,6 @@ class ActorBars extends Component {
 		}
 		this.props.incrementStep();
 
-		let baseHeight = "1100";
 		for (let decade of Object.keys(data)) {
 			let boxes = d3.selectAll(`.box-${decade}`);
 			let size = boxes.size();
@@ -64,7 +62,7 @@ class ActorBars extends Component {
 					pendingTransitions++;
 				})
 				.attr('d', (d, i) => newPaths[i])
-				.on('end', (d) =>{
+				.on('end', (d) => {
 					pendingTransitions--;
 					if (pendingTransitions === 0) {
 						this.changeBars(boxes);
@@ -106,7 +104,7 @@ class ActorBars extends Component {
 
 		let bar = this.svg.append('path')
 			.classed('bar', true)
-			.data([decade])
+			.datum(decade)
 			.attrs({
 				fill: constants.colors.BLUE.DARKEN,
 				opacity: 0,
